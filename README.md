@@ -1,1 +1,61 @@
-# HardVPN-bypass-WhiteLists-
+# HardVPN Bypass WhiteLists
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HardVPN-Bypass%20WhiteLists-blue?style=for-the-badge" alt="HardVPN">
+  <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" alt="status">
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Android%20%7C%20Linux-orange?style=for-the-badge" alt="platform">
+</p>
+
+<p align="center">
+  <b>Репозиторий проекта HardVPN для работы с VPN-конфигами, обходом ограничений и удобным хранением полезных материалов.</b>
+</p>
+
+---
+
+## О проекте
+
+**HardVPN Bypass WhiteLists** — это репозиторий, связанный с проектом **HardVPN**, в котором могут храниться:
+
+- VPN-конфиги
+- подписки
+- вспомогательные скрипты
+- материалы для тестирования
+- файлы для обхода ограничений
+- документация и обновления проекта
+
+Этот репозиторий сделан как удобная база для дальнейшего развития и публикации всего, что связано с HardVPN.
+
+---
+
+## Возможности
+
+- хранение конфигов и подписок в одном месте;
+- удобная структура для развития проекта;
+- публикация обновлений и новых решений;
+- база для документации и инструкций;
+- быстрый доступ к материалам проекта.
+
+---
+
+## Для чего нужен этот репозиторий
+
+Проект может быть полезен для:
+
+- тестирования VPN-конфигов;
+- подбора рабочих решений;
+- хранения актуальных файлов;
+- организации материалов HardVPN;
+- дальнейшего развития сервиса.
+
+---
+
+## Структура проекта
+
+```text
+HardVPN-bypass-WhiteLists-
+├── README.md
+├── configs/
+├── subscriptions/
+├── tools/
+├── docs/
+└── assets/
