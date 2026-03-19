@@ -47,15 +47,3 @@
 - организации материалов HardVPN;
 - дальнейшего развития сервиса.
 
----
-
-## Структура проекта
-
-```text
-HardVPN-bypass-WhiteLists-
-├── README.md
-├── configs/
-├── subscriptions/
-├── tools/
-├── docs/
-└── assets/
