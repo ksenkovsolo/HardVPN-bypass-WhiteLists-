@@ -1,0 +1,20 @@
+{
+  "started_at": "2026-03-19 18:16:40",
+  "elapsed_seconds": 786.6,
+  "sources_total": 8,
+  "sources_ok": 8,
+  "sources_failed": 0,
+  "keys_raw_total": 11246,
+  "keys_unique_valid": 7440,
+  "keys_duplicates": 3794,
+  "keys_invalid": 12,
+  "keys_unsupported": 0,
+  "keys_whitelist_allowed": 5090,
+  "keys_whitelist_rejected": 2350,
+  "tested_best": 97,
+  "tested_good": 302,
+  "tested_slow": 140,
+  "tested_bad": 4551,
+  "publish_total": 399,
+  "github_synced": false
+}
