@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-03-20 07:29:24",
-  "elapsed_seconds": 258.1,
+  "started_at": "2026-03-20 07:36:16",
+  "elapsed_seconds": 238.1,
   "sources_total": 15,
   "sources_ok": 7,
   "sources_failed": 8,
@@ -11,10 +11,10 @@
   "keys_unsupported": 0,
   "keys_whitelist_allowed": 2552,
   "keys_whitelist_rejected": 981,
-  "tested_best": 42,
-  "tested_good": 86,
-  "tested_slow": 14,
-  "tested_bad": 2410,
-  "publish_total": 128,
+  "tested_best": 31,
+  "tested_good": 92,
+  "tested_slow": 13,
+  "tested_bad": 2416,
+  "publish_total": 123,
   "github_synced": true
 }
