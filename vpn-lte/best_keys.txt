@@ -1,4 +1,9 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-vless://a1f2648c-35be-4f3d-876a-776eb9df1fc4@178.72.168.76:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=api-maps.yandex.ru&pbk=7TvkMzoB3gEZy-5HfL6-M_AT_qWVgyeoiggDb2Qg5hE&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://fc172006-f509-40b4-b248-c0fcf23fbc9a@nodaswe.stockvpn.online:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&sni=max.ru&path=&host=#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20TG%3A%20%40HardVpn_robot
+vless://fc172006-f509-40b4-b248-c0fcf23fbc9a@nodandl.stockvpn.online:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&sni=max.ru&path=&host=#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://fc172006-f509-40b4-b248-c0fcf23fbc9a@nodafin.stockvpn.online:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&sni=max.ru&path=&host=#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@37.221.125.156:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
+vless://0e6258fc-fd15-42ec-97e7-c699d86d8a6c@lv2.darknet.run:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=s8D-auMHfbyqGcl0aZztxkVndBcx3cYhp1dCesjy3TA&sid=a1b323d4&sni=max.ru&path=&host=&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
+vless://ee740b72-87f6-45e4-a680-85d8d1cc3df1@194.36.39.190:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20TG%3A%20%40HardVpn_robot
