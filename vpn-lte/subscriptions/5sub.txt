@@ -1,0 +1,11 @@
+# profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
+# profile-update-interval: 2
+#announce: Более хорошие подписки в TG: @hardvpn_robot
+# Количество: 100
+vless://10d3d4c8-167e-4a4b-8516-cd328c91ab95@37.18.15.130:47015/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=qq&security=reality&pbk=XK84BZHm8wGcPS24VRXFUv2PC399k6KejjV0GO_J4yY&sid=&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://f367c5cd-1a01-4ad6-bb02-fa8fb4ed13ab@217.13.104.133:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=alfabank.ru&pbk=cDLK-I36SU8b7H7u-ZFyoMTjVKnbfQfKjhQvzTf13Dw&sid=f6f561090bdf7bf4&spx=#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%7C%20TG%3A%20%40HardVpn_robot
+vless://0b15a7b8-8007-4b89-b719-ba09e5ad4d7a@217.13.104.133:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=alfabank.ru&pbk=cDLK-I36SU8b7H7u-ZFyoMTjVKnbfQfKjhQvzTf13Dw&sid=f6f561090bdf7bf4&spx=#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%7C%20TG%3A%20%40HardVpn_robot
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.34:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://7a442971-348d-4f18-a7cb-ab95190a0598@90.156.215.248:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&sni=rbc.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://5880e3bd-7695-4a4e-a216-788dd3fe45a2@178.250.246.103:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=max.ru%3A443&pbk=D5ttWzeUeEo0oKchjhHGY7Z8jFrAB-BOz6kdQpCrZg0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://32ff03ce-1cff-4097-a3b5-abd87e81a824@83.166.252.117:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
