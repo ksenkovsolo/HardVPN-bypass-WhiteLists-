@@ -1,0 +1,10 @@
+# profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
+# profile-update-interval: 2
+#announce: Более хорошие подписки в TG: @hardvpn_robot
+# Количество: 100
+vless://e02d6b29-519c-41b9-9488-8396c77dd842@212.233.97.139:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://20756d6e-fe15-4f08-8934-d2b119be7907@161.104.105.144:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=dc8109baf0f607ea#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://eb7e9c29-cc88-4577-bf61-ee6785332224@161.104.105.144:8443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=rbc.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://c7f3aed9-8214-4070-967a-6b43486ec01a@195.123.220.58:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dzen.ru&fp=chrome&pbk=hQOFvt7c4ygPh6gB9wDPAKDwzD1alt61UPSPGlJCYUo&sid=368474ede37a9933&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://bf263367-bb63-4663-b4a1-34946107a72e@direct.illusion-vpn.ru:52000?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dUMRGt4pHvNO-YjS6lWsEZhoiHe6DH1Dw92nqVAx_T0&sid=f1002d6b&sni=ozon.ru&spx=#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
+vless://95557ad5-5d90-4f80-a1e2-a72fda60ca4b@157.22.173.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=securepayments.tinkoff.ru&fp=qq&pbk=yyLxjdbU7vLjtfY_3zn-9Vq83K1wC9ogjQMKgpehbTw&sid=915e2b53b22af1&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
