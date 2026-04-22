@@ -1,6 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-vless://c257e024-a5bf-4423-9d90-4017d7690ff4@194.67.124.202:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=aetBvw_Oniq0INKvHmf4ZMShd43_gTMnRDYddIV1n2s&sid=5FA44664f6a566d3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://8277f2ac-e832-4cd7-b0e0-e7fe6e652207@158.160.105.127:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://a88ea8bf-7001-4e29-a9bb-379f6778195c@free.nexyonn.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=iNnoaSfyKvdo5kp5znHSGFNqFxNhS0ormvHHHwsUSTM&sid=0123456789abcdef&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.140.167.209:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
+vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?security=reality&encryption=none&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.m.vk.ru&sid=9a694cfa8ebd15#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://4e78dd4f-1d8f-0410-b43b-e2c662c4f956@158.160.231.77:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
