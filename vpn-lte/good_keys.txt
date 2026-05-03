@@ -1,8 +1,5 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-vless://3b95fcac-599b-4c55-bc26-89e63f9a1bd6@ktzy4.vpnul.codes:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&sid=2da46294d6a521B2&sni=ads.x5.ru&fp=chrome&alpn=http%25252F1.1&headerType=none%22%3A#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://4e8d48bb-3c03-4e02-b15f-a76737cca9e7@178.250.243.178:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=lwAdXwnwQs9L0FOGVbTbk373EgGE3J5AqTr2J3rNbh0&sid=345678#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://2852dd61-4ff4-4073-8b3e-93f1f213229d@91.219.227.203:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://e7d88c6a-c253-4d16-b0cb-e293b2856c6e@195.209.210.87:44443?fm=null&fp=chrome&pbk=zActfG7j1iIjclCzN1Eid1jR85-_U9-ZR2nedr142Hk&security=reality&sid=a8ac91fd6a3c63ca&sni=sso.passport.yandex.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://bebca003-1ae0-4ea2-a2e9-9e58342ecc39@213.171.26.10:12443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789&sni=ads.x5.ru&mode=gun&serviceName=grpc-gg&authority=#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://8664be77-21f6-4ef5-9a65-c63c91e3154a@158.160.251.31:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://ab2f5b91-9cfd-4989-af25-353d4d69372c@ca.srv.casrv.link:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.dev&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%7C%20TG%3A%20%40HardVpn_robot
