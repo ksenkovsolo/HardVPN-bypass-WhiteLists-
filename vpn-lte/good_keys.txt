@@ -1,4 +1,10 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@158.160.38.221:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=pxKqxFKiZjeTlVKv1JM7DozcbBJYp-_nK75KS1JVpSE&sid=1a1e145c#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@158.160.38.221:443?fragment=100-200,10-20,tlshello,100-200&fp=chrome&type=tcp&pbk=pxKqxFKiZjeTlVKv1JM7DozcbBJYp-_nK75KS1JVpSE&sid=1a1e145c&headerType=none&spx=/&security=reality&flow=xtls-rprx-vision&sni=max.ru&r=4f79f1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://b4186875-7023-4f20-88b2-125a04943b2b@dosia.lightforum.su:39671?type=tcp&security=reality&fp=random&pbk=n5P9loBH9eKY7Lj6uVi2CMh7vZcAclKWYjbSOWG0mkU&sid=54c7c13b52eea5f3&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://d5c95615-2d1b-48b9-9f53-1d979560fa34@78.159.246.239:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=x5.ru&pbk=VEQ1aFtLMHgfLcZ2yIugry8JzVXPE5ZXz72L10RUXVs&sid=f4e2b8971d5c3a9f#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://009c95de-c20e-4f04-8c38-0714acf214ce@91.219.227.200:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=sso.passport.yandex.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://009c95de-c20e-4f04-8c38-0714acf214ce@91.219.227.189:8181?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@georg.sbrf-cdn342.ru:443?security=tls&type=tcp&sni=sub.sbrf-cdn342.ru&fp=chrome&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@155.212.238.32:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&sid=2da46294d6a521B2#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
