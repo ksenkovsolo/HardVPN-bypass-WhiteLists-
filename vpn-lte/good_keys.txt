@@ -2,3 +2,7 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 vless://b27ab9aa-a525-4deb-a1fd-6d16c9614612@38.114.103.54:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@5.188.140.166:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&sni=max.ru&fp=chrome&alpn=http%252525252525252F1.1&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://bc9639fa-6600-43ff-9a43-eb34ad192810@cloud1.ummaadmin.cloud:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=chrome&pbk=0t6b8m_PBAG3rF2HPOEL4yiyb-2JglciiANPKvyb2Ho&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://097afcff-cb32-49b1-b3d5-9f8398947d46@158.160.220.7:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=YKDxvQImldrUfVaJM_Hr49gpEqrDE66j7Psw4vOZuyI&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.210.151.165:2053?host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TG%3A%20%40HardVpn_robot
