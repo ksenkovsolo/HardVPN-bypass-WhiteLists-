@@ -1,4 +1,5 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-vless://fd365b7e-26eb-479a-a009-e182d827de04@46.8.209.200:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=z67jBKrK0gsKfg-sz_8_CFMtKq9fAtWJPEJpHvo-OFU&security=reality&sid=7e2a9d4c5f18b0&sni=ads.x5.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@5.188.140.166:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&sni=max.ru&fp=chrome&alpn=http%25252525252525252F1.1&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@az5.duckfree.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sun1-18.userapi.com&fp=chrome&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20TG%3A%20%40HardVpn_robot
