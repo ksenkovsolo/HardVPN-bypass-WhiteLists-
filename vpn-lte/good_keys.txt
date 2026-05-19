@@ -1,3 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
+vless://a2b2a4fb-7b34-472b-b4c0-e206fef1edfc@5.188.143.75:443?encryption=none&type=xhttp&security=reality&path=%2F&extra=null&fp=chrome&sni=ads.x5.ru&pbk=SWtTPBu6zbnC3wIyRtpajm22OWaZXOCm6dthxan7QE4&sid=25b19ab8cfd78fe5#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://a2b2a4fb-7b34-472b-b4c0-e206fef1edfc@mts.kaguya.sbs:443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&fp=chrome&pbk=1ZNcu6FOn9xF-YfkFLhDI3vuO8w3VWq32zYVJ4JWBxQ&sid=dc4aa6635008a9ae&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://38d0ca07-e91d-4e84-9e90-7425986ab51c@37.18.15.174:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=x5.ru&pbk=b9uDzZP2udvoExtbm7nwraBaAbg0QowtY-ALDNZ__xg&sid=f4e2b8971d5c3a9f#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://10571d38-8fe5-4e94-b3f2-8d63ecec9048@109.120.152.3:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://63ac79eb-755d-462f-97ab-30709ef3e840@45.15.152.41:8444?security=reality&encryption=none&pbk=JtN9_H_N2crGncc6Jy2NBz5yq7BiKwny7LhpkUG9YVY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=taximaxim.ru&sid=512342#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
