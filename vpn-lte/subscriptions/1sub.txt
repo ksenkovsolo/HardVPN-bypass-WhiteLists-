@@ -2,4 +2,6 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 100
-vless://66036ae7-f4b4-4dd9-b72f-88b571c6ba26@pl2-node.vpnspacev.com:443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=452c#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://5b2fc182-a497-4fbe-aeb8-1841dae99022@78.40.117.202:8080?encryption=none&fp=&pbk=Xqcp6tB5Fo56tQWqdP2JopElgM7I3UMAHVjdL6ryvRQ&security=reality&serviceName=steram&sni=ads.x5.ru&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20TG%3A%20%40HardVpn_robot
+vless://66036ae7-f4b4-4dd9-b72f-88b571c6ba26@pl2-node.vpnspacev.com:443?headertype=none&host=yandex.ru&path=%2F&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&security=reality&sid=452c&sni=yandex.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://b198c7e4-b6a5-4309-ac0e-0783cf8b129c@193.168.197.76:2443?type=tcp&encryption=none&security=reality&pbk=Pyn-CZrKJEIoM7mcj__Eosc4F03CpqvwRZEqlJzqOnQ&fp=chrome&sni=www.ya.ru&sid=e6df8954df22&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20TG%3A%20%40HardVpn_robot
