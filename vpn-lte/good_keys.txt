@@ -1,6 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@146.185.209.234:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&sid=f69d7af2d5fc5e0c#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://e277ac9b-3225-4381-a9fb-3585419f7142@kobe.ns.cloudflare.com:443?alpn=http%2F1.1&encryption=none&host=35cdnws.frnstatic.info&path=%2F35cdnws&security=tls&sni=35cdnws.frnstatic.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-vless://e277ac9b-3225-4381-a9fb-3585419f7142@kobe.ns.cloudflare.com:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=35cdnws.frnstatic.info&path=%2F35cdnws&security=tls&sni=35cdnws.frnstatic.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://9ee8e104-89b5-465f-a551-669d372931ff@185.91.54.70:443?encryption=none&type=grpc&security=reality&mode=gun&fp=firefox&sni=ads.x5.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=825867#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?type=tcp&security=reality&sni=max.ru&fp=qq&flow=xtls-rprx-vision&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&sid=28a059440d3d5ba1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
