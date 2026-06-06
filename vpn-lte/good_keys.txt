@@ -1,5 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@31.207.5.43:47200?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=stats.vk-portal.net&fp=firefox&pbk=aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE&sid=b2a9bd658fc81dc6#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@nlone.hpdata.click:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&sid=e90360ec7cc61b20&sni=m.vk.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@194.93.0.180:47200?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=stats.vk-portal.net&pbk=aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE&sid=b2a9bd658fc81dc6#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://a2415a12-3f92-4636-9823-9828d3ceb818@103.119.18.32:8443?type=tcp&security=reality&pbk=4sm4mUC0igscX3gHfsxD2b0F6bimVQf_M6w2ZvV7QW8&fp=firefox&sni=www.ya.ru&sid=39f0#%F0%9F%87%A8%F0%9F%87%BF%20Czech%20Republic%20%7C%20TG%3A%20%40HardVpn_robot
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://7283d2d5-7b14-431b-9d1f-96f2dac4a97b@83.229.14.251:58888?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@2.26.116.183:47200?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE&sid=b2a9bd658fc81dc6&sni=stats.vk-portal.net#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
