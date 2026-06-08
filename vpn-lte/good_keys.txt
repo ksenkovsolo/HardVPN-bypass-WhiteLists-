@@ -2,4 +2,5 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 vless://ef6faa53-d230-4e35-a071-e38224d9126f@31.130.130.168:443?security=reality&encryption=none&pbk=PNtfWIdwZkgsP4XJGdgrEibPecaA_-uV1EzVewshgXE&headerType=none&fp=chrome&spx=%2FqLhKPUoXfr67gnp&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=872f0656fc1196#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://c614e160-d1c3-40da-89ec-7d71a40d6f9c@217.16.30.58:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=web.max.ru&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@146.185.209.234:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&security=reality&sid=f69d7af2d5fc5e0c&sni=ads.x5.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
