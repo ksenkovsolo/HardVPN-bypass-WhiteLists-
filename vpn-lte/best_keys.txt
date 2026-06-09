@@ -2,7 +2,5 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 vless://b67ed271-5a34-4d07-9970-f8ba27ca2c8a@85.239.34.16:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=d82fb387#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://9e5201b2-5061-413b-b310-36cc6ec590c6@31.128.44.115:14745?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=f9AiyvsdiGpy9hGb6KP00ekHaeIhnQ3eRGJWGvGZQEw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?type=tcp&security=reality&sni=max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&sid=08000000#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?type=tcp&security=reality&sni=max.ru&fp=qq&flow=xtls-rprx-vision&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&sid=08#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://85c42ce4-7789-49cb-9012-9d6d6ba16581@tralalero.site:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sni=storage.yandex.net&sid=6419bed7fd0a2cff#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20TG%3A%20%40HardVpn_robot
