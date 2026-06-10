@@ -1,6 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-vless://443211c6-8ebb-4676-b796-f3a3a94c38a6@188.68.218.190:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CfR6qJ1nbTh-fEQ6F21VYHXfSwdaqcEZwTwmCRcUxnA&sid=de4158854173e0e8&sni=sso.passport.yandex.ru&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://9e5201b2-5061-413b-b310-36cc6ec590c6@46.229.215.189:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://5481bfe3-bf42-425c-b561-cb9d64bff7ff@31.76.84.184:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=D0tYligRGe3BOGZyKT6RhHQxYFZqpKm7-FnDrYHkIzU&security=reality&sid=a9496097304cffd1&sni=x5.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://9e5201b2-5061-413b-b310-36cc6ec590c6@31.56.188.85:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=vk.ru&fp=firefox&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
+vless://a6bd2cf2-cb83-4ac3-82a3-350cc9d0d469@hype-1.topupaxme.icu:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&security=reality&sid=&sni=max.ru&type=#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://b6eaf50a-0b56-45c4-a993-4cc4d3dd1ede@186.246.23.136:8443?flow=xtls-rprx-vision&fp=firefox&pbk=5XOAmA_awHUD2jyfv7KmWiiLOfrQC14zipdA-2scPlA&security=reality&sni=www.vk.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://9f5ce1f6-d223-4f80-b848-72b7d662f189@84.201.144.254:443?flow=xtls-rprx-vision&fp=firefox&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&security=reality&sid=27e53bbcab7593d7&sni=web.max.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
