@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-vless://90c60604-b214-4fe6-8396-9320674cfd68@46.243.183.42:443?fp=firefox&pbk=R-G0TgsAJZEFB4gEJ0bzScm0xJiO9bGgfGmt-X2IhAo&security=reality&sni=5post-gate.x5.ru&type=grpc#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%7C%20TG%3A%20%40HardVpn_robot
-vless://a6bd2cf2-cb83-4ac3-82a3-350cc9d0d469@185.86.146.15:5443?flow=xtls-rprx-vision&fp=firefox&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&security=reality&sni=max.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://a6349c3f-5234-4821-80b4-d99b33f0924d@45.196.224.93:8443?flow=xtls-rprx-vision&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=ece180c605b5453c&sni=storage.yandex.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TG%3A%20%40HardVpn_robot
-vless://7b7fe91c-89cc-414d-9860-839b3845f50d@31.76.93.54:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=BrGL0gTKK_Ir2VwJOa91Vd8870DswnOXhA6-F92RBGI&sid=a987b6bd1781daa3&sni=eh.vk.com&burmalda=337517ff#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
+vless://a6bd2cf2-cb83-4ac3-82a3-350cc9d0d469@185.229.9.38:5443?flow=xtls-rprx-vision&fp=firefox&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&security=reality&sni=max.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://b5d7c7ad-850f-4f80-8621-7c863eff1b49@bypass.br-m247-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&security=reality&sid=57f5917841a2178f&sni=rbc.ru&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%7C%20TG%3A%20%40HardVpn_robot
+vless://9e5201b2-5061-413b-b310-36cc6ec590c6@31.56.188.85:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=vk.ru&fp=chrome&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
+vless://c470171c-2951-4806-988d-61d4d811486d@uk.riotvpn.eu:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=avatars.mds.yandex.net&fp=qq&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
