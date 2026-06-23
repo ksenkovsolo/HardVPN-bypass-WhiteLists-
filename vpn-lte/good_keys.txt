@@ -1,6 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@de-dp-01.com:8443?flow=xtls-rprx-vision&fp=chrome&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?path=/rdfgtws&security=tls&encryption=none&host=vangoghhh.info&fp=chrome&type=ws&sni=vangoghhh.info#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-vless://0e5468e1-01f6-4000-8883-16716722a672@51.250.1.203:443?encryption=none&type=xhttp&security=reality&extra=null&fp=firefox&sni=5post-gate.x5.ru%3A443&pbk=S0GxtKvJarU_vHObNJXhnY9WnNmVrMgzOn6IMKK95UA&sid=909090#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://b1365e28-998b-4eea-b442-8299345265ce@185.229.9.32:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=yandex.ru&pbk=r6LKP3g2W5ruKICTDfH8rwM1PbMjdcgHU7cG6jppxTs&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@nl.prx1.raketa-balance.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://c63c03b0-2cc1-4063-b8c1-2eb64138f72f@45.155.102.46:443?type=grpc&headerType=none&security=reality&encryption=none&sni=dzen.ru&fp=firefox&pbk=epKxGHvul2A8tNMFsEDFN2P71B-WbEEwbqbPLyNlYFg&sid=e549af0908&serviceName=web-grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
