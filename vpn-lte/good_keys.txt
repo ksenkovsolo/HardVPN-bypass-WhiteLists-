@@ -1,6 +1,4 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-vless://7573908b-d981-4153-92aa-33ee2d22144c@178.250.242.39:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=www.kinopoisk.ru&pbk=VH-4z1TvkJLyH9cgwdrhvMevxr3PltSBnMk43X6pi2U&sid=086007#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://e7edd2fe-e9de-499a-b320-407435e165bb@157.22.206.81:8476?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=DNN5rLd0UtiK-Clgvqk6p4Bg59aROjbPLGdvgX35wmM&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.168:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#%F0%9F%87%B1%F0%9F%87%B9%20Republic%20of%20Lithuania%20%7C%20TG%3A%20%40HardVpn_robot
+vless://2ea1a3c8-2581-4ead-8291-43fee2f8be3d@62.60.228.89:443?type=tcp&security=reality&sni=api.ok.ru&fp=qq&pbk=ydoxmw5pH_JPRTbjeNKnsF-MfVybjnAYLnhwRj3n3yE&sid=cf2d#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
