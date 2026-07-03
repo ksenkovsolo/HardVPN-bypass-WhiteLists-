@@ -1,0 +1,9 @@
+# profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
+# profile-update-interval: 2
+#announce: Более хорошие подписки в TG: @hardvpn_robot
+# Количество: 100
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.47:8443?flow=xtls-rprx-vision&fp=firefox&packetEncoding=xudp&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20TG%3A%20%40HardVpn_robot
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20TG%3A%20%40HardVpn_robot
+vless://765e0908-5ec4-41e9-8bd0-6482425e4247@152.53.139.226:443?flow=xtls-rprx-vision&sni=ads.x5.ru&security=reality&pbk=3TrzFrsFzfZAeYOclG39atVKrsJcN7Beoa4VhN5D-j4&sid=19ffa83bd83eb32d&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.138:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20TG%3A%20%40HardVpn_robot
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.83:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20TG%3A%20%40HardVpn_robot
