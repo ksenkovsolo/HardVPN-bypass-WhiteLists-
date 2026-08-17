@@ -1,7 +1,5 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-vless://febfeec2-9a21-4afc-9edb-0833466672cd@31.58.181.88:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=AERbWB2uslqIzm1hSlOZZEH3Y9qg_zlWRRyLfh97kXc&sni=tradingview.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://ad17ed00-5bb6-4fa4-8be1-a545a9fbda6e@45.84.1.247:8443?security=reality&encryption=none&pbk=E_hcnZ6IvHDD2IFy8UGRvwWXHSqRrF--Ply0hJXSd30&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=849cac6150823b#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://b6c29ae7-4748-4049-b642-b695c0d2c776@159.194.226.13:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fk_aUHA_JijqIiSXZH61Ur6WSfPQ-Ke7J1IGgEZAh0I&sni=vk.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://96563f88-f743-4395-a3b2-27ec462ae45e@35.241.98.220:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=bSK8gtmPMlw7gP415tmh6kQzzFiwzxBsT3Kuqql6cRo&sid=ec2c7091fe76336c&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20TG%3A%20%40HardVpn_robot
+vless://ad074ab8-c55b-46d3-a0b2-fbd278414873@213.178.155.239:443?encryption=none&fp=firefox&mode=gun&pbk=dg-XAKwtCTyYz0HN94sbNCM8xLwY4lBHkUa883nTFn8&security=reality&serviceName=bridge-akenai-grpc-max&sid=be7d4026&sni=max.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://87b320fe-2329-498d-997b-7b956a99eecb@213.178.155.239:443?type=grpc&security=reality&fp=firefox&pbk=dg-XAKwtCTyYz0HN94sbNCM8xLwY4lBHkUa883nTFn8&sid=be7d4026&sni=max.ru&serviceName=bridge-akenai-grpc-max#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
