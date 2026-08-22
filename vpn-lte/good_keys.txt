@@ -1,8 +1,4 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-vless://fee2cdd8-55d1-4c5b-a67a-cfde8d45eed0@72.56.78.50:443?type=grpc&security=reality&sni=sun6-21.userapi.com&fp=edge&pbk=huH_8n0Dfk4iolIkzrc-qET8ySHWgZAr-i6K6lr6xSs&sid=375838bc17c0#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=%2F%3V2raySaman&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&type=tcp&headerType=none&host=mehrosaboran.mehrosabora%20.mehrosaboran#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=%2F%3Fconfig_Qavi---config_Qavi---config_Qavi---config_Qavi&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=%2F&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
+vless://d01d5a74-09fb-4e9e-b0d9-38b5fd77ad70@200.165.230.19:443?encryption=none&flow=xtls-rprx-vision&pbk=iWxxH0TWB1Ciz6sEwtfjUVY61OcTDihou5IJfkt0O0Q&security=reality&sid=a3f8d21c4b907e56&sni=www.kinopoisk.ru&type=tcp&fp=firefox#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%7C%20TG%3A%20%40HardVpn_robot
