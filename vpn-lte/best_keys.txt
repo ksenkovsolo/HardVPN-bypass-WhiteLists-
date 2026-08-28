@@ -1,3 +1,5 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
+vless://c80a96e8-d4a6-4785-b53b-a475b252c4ed@5.129.210.63:8443?mode=gun&security=reality&encryption=none&pbk=Z5WItgtmxxL_umUUIPO72kSTBGjlGg3sUPigtTG6wlI&type=grpc&sni=sun6-21.userapi.com&sid=ac#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://fe8e2ffb-8796-408c-af5b-0d4774215e00@89.34.90.68:8443?type=grpc&security=reality&pbk=dTdncizxtVTqDZDkQoYdRTkf2Mn6XuKtkzg8vZhrkzA&sid=6ba85179e30d4fc2&sni=360.yandex.ru&serviceName=grpc&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
