@@ -1,5 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-vless://b8ca2900-3ed7-4b58-970e-060d0a6cbf99@35.187.156.27:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=d79d3dc3816c329d&pbk=HsoG0C19O-NY_EcFpK0ybZv9lFol0MjDJLzjDzWAGXs#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20TG%3A%20%40HardVpn_robot
-vless://ec537bff-dc14-495c-b65f-65393ad7ee75@mstfdc6.jarvesitw.ru:443?encryption=none&security=reality&sni=ads.x5.ru&fp=qq&pbk=c5vsnqZ0Lr_bFoto-ES-3bVD63PwFeogqfc7xTj2rig&sid=3f7fb4ee&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://d2aeb078-90db-4f90-b334-623bcbea8d31@81.90.21.238:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=KkLPvQ7Knu5fmCTL4GA-ZpU8WTJFn1uKpSxJU0aoKSg&sid=30883e2a0a712343&sni=cdnjs.cloudflare.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
+vless://d2aeb078-90db-4f90-b334-623bcbea8d31@vs-se16.vibesignal.space:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=cdnjs.cloudflare.com&fp=edge&pbk=H6ky2w5dUFdXXgD0Xv1B_dkqXO6XYmwjdxzjMDT2uww&sid=65a8e8f5c70a79ab&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20TG%3A%20%40HardVpn_robot
+vless://a4037b4c-6a9d-528c-9efb-7d801cce8adb@91.84.117.29:443?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=PyV8IrAs0LkE2d_DdjvdCtpWG7MZyUKsYkb52GUmuDM&security=reality&sid=67&sni=vk.com&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
