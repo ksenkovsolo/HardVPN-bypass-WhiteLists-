@@ -1,0 +1,22 @@
+{
+  "started_at": "2026-08-31 21:58:50",
+  "elapsed_seconds": 32755.9,
+  "sources_total": 10114,
+  "sources_ok": 9586,
+  "sources_failed": 528,
+  "keys_raw_total": 2827556,
+  "keys_unique_valid": 334186,
+  "keys_duplicates": 2039267,
+  "keys_invalid": 42641,
+  "keys_insecure": 411462,
+  "keys_unsupported": 0,
+  "keys_whitelist_allowed": 42138,
+  "keys_whitelist_rejected": 292048,
+  "tested_best": 33,
+  "tested_good": 75,
+  "tested_slow": 396,
+  "tested_bad": 41634,
+  "publish_total": 108,
+  "subscription_files": 2,
+  "github_synced": true
+}
