@@ -1,11 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 36
-trojan://gHQP0D7D15@172.66.0.1:2053?alpn=http%2F1.1&host=marvdasht.phonecomparisonblog.org&insecure=0&path=%2F&security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-trojan://gHQP0D7D15@172.66.0.1:2053?sni=marvdasht.phonecomparisonblog.org&type=ws&path=%2F&alpn=http%2F1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-trojan://gHQP0D7D15@172.66.0.1:2053?type=ws&security=tls&sni=marvdasht.phonecomparisonblog.org&fp=chrome&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-trojan://gHQP0D7D15@172.66.0.1:2053?type=ws&sni=marvdasht.phonecomparisonblog.org&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 32
 trojan://gHQP0D7D15@172.67.118.45:2053?type=ws&security=tls&path=%2F&sni=marvdasht.phonecomparisonblog.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://gHQP0D7D15@172.67.118.45:2053?type=ws&security=tls&sni=marvdasht.phonecomparisonblog.org&fp=chrome&path=%2F&host=marvdasht.phonecomparisonblog.org#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://gHQP0D7D15@172.67.118.45:2053?type=ws&security=tls&sni=marvdasht.phonecomparisonblog.org&path=%2F&host=marvdasht.phonecomparisonblog.org#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
