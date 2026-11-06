@@ -10,6 +10,7 @@ socks://81.211.26.237:1080#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C
 socks://85.119.74.86:1080#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 socks://Og%3D%3D@193.25.215.182:22222#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 socks://Ok5vbmU=@193.25.215.182:22222#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN1dMYVlkdWprd25qNnh4WHEtMkJTeEdXRWNTSnRUQQ==@88.216.254.18:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443/?type=tcp&security=tls&sni=api.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
@@ -101,4 +102,3 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&insecu
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443/?type=tcp&security=tls&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?headerType=none&insecure=0&security=tls&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?headerType=none&insecure=0&security=tls&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com&type=tcp&fp=firefox#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%7C%20TG%3A%20%40HardVpn_robot
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?headerType=none&insecure=0&security=tls&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com&type=tcp&fp=ios#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%7C%20TG%3A%20%40HardVpn_robot
