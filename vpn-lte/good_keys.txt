@@ -1,7 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 3
-vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&security=reality&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 2
+vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?&security=reality&flow=xtls-rprx-vision&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&sid=5c256336e3b673fa&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?flow=xtls-rprx-vision&fp=random&host=www.cloudflare.com&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&security=reality&sid=fa3ea655619a3e78&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
