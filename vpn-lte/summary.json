@@ -1,13 +1,13 @@
 {
   "stage_seconds": {
     "fetch": 0.0,
-    "dedup": 42.83,
-    "whitelist": 192.96,
-    "test": 1284.57,
-    "build_publish": 0.32
+    "dedup": 42.85,
+    "whitelist": 178.77,
+    "test": 1302.29,
+    "build_publish": 0.22
   },
-  "started_at": "2026-11-07 05:01:01",
-  "elapsed_seconds": 1520.7,
+  "started_at": "2026-11-07 05:26:30",
+  "elapsed_seconds": 1524.1,
   "sources_total": 95,
   "source_refresh_reused": true,
   "sources_ok": 0,
@@ -17,7 +17,7 @@
   "keys_raw_total": 0,
   "keys_from_unchanged_sources": 0,
   "keys_rechecked": 256,
-  "keys_cached": 2639,
+  "keys_cached": 2486,
   "keys_unique_valid": 356229,
   "keys_duplicates": 966312,
   "keys_invalid": 60217,
@@ -27,10 +27,10 @@
   "keys_whitelist_rejected": 224894,
   "tested_best": 9,
   "tested_good": 4,
-  "tested_unchecked": 4,
-  "keys_pending": 128440,
+  "tested_unchecked": 9,
+  "keys_pending": 128593,
   "tested_slow": 137,
-  "tested_bad": 2741,
+  "tested_bad": 2583,
   "publish_total": 150,
   "subscription_files": 2,
   "files": {
