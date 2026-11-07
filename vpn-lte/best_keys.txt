@@ -2,5 +2,5 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 2
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.47.58:18443#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://0ab273e4-cea6-41d0-bbab-41071d2fc455@5.252.179.15:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XQB2zIgrhD8AtxgYFM8UiiWYt1sLVBLhMg1M4-sGMAY&security=reality&sid=296f27de82dad7ff&sni=www.bing.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
+socks://81.211.26.237:1080#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
