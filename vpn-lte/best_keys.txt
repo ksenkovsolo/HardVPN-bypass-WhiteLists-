@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 8
+# Количество: 13
 ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.47.58:18443#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?type=tcp&security=tls&fp=chrome&sni=www.connectingpeoplewithgreatjobs.com&host=mtmvpn#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0ab273e4-cea6-41d0-bbab-41071d2fc455@5.252.179.15:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XQB2zIgrhD8AtxgYFM8UiiWYt1sLVBLhMg1M4-sGMAY&security=reality&sid=296f27de82dad7ff&sni=www.bing.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
@@ -10,3 +10,8 @@ vless://0ab273e4-cea6-41d0-bbab-41071d2fc455@5.252.179.15:443?flow=xtls-rprx-vis
 vless://0ab273e4-cea6-41d0-bbab-41071d2fc455@5.252.179.15:443?flow=xtls-rprx-vision&fp=random&host=www.bing.com&pbk=XQB2zIgrhD8AtxgYFM8UiiWYt1sLVBLhMg1M4-sGMAY&security=reality&sid=296f27de82dad7ff&sni=www.bing.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&type=tcp&headerType=none&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=tcp&security=reality&encryption=none&sni=yandex.ru&flow=xtls-rprx-vision&fp=random&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&security=reality&sid=0dfc23fe80778c00&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20TG%3A%20%40HardVpn_robot
+vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&security=reality&sid=0dfc23fe80778c00&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20TG%3A%20%40HardVpn_robot
+vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&sid=0dfc23fe80778c00&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20TG%3A%20%40HardVpn_robot
+vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?flow=xtls-rprx-vision&fp=random&host=www.cloudflare.com&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&security=reality&sid=0dfc23fe80778c00&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20TG%3A%20%40HardVpn_robot
+vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=0dfc23fe80778c00&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20TG%3A%20%40HardVpn_robot
