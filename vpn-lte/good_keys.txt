@@ -1,4 +1,10 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 0
+# Количество: 6
+vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=yandex.ru&fp=chrome&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&headertype=none#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?encryption=none&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=music.3apes.online&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
+vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&security=reality&sid=0dfc23fe80778c00&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20TG%3A%20%40HardVpn_robot
+vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&sid=0dfc23fe80778c00&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20TG%3A%20%40HardVpn_robot
+vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?flow=xtls-rprx-vision&fp=random&host=www.cloudflare.com&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&security=reality&sid=0dfc23fe80778c00&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20TG%3A%20%40HardVpn_robot
+vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=0dfc23fe80778c00&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20TG%3A%20%40HardVpn_robot
