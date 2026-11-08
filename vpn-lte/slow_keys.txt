@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 143
+# Количество: 149
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZjI0ZDE0NWJmN2M4NzdmN2UzMTQwYjc5MThlYjljZDgwNGIxNTc2YTk2NTk2Zjk@45.12.89.202:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
@@ -145,3 +145,9 @@ vless://13aef2e0-b3fb-4322-a0e9-c10b908ce6b5@server.slavkiti.monster:443?securit
 vless://16cd1338-ecb9-44f3-8f0c-919242370ef2@5.104.74.69:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=D9IxnCLtXuDLR1yBNZwWdxxbNDfsZgN3C9IsqKgG8Ec&security=reality&sid=17a35165f9d25923&sni=uk-room06.filesnap.tech&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
 vless://16cd1338-ecb9-44f3-8f0c-919242370ef2@5.104.74.69:8443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=uk-room06.filesnap.tech&fp=chrome&pbk=D9IxnCLtXuDLR1yBNZwWdxxbNDfsZgN3C9IsqKgG8Ec&sid=17a35165f9d25923#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
 vless://176b50a0-cce0-416d-bc4c-6694271985dd@5.104.74.70:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&security=reality&sid=dbef98744832b751&sni=uk-room07.filesnap.tech&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1896c6c9-a941-4688-a865-29027bf7f8e6@193.124.17.190:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&security=reality&sid=6c825bc79850&sni=www.microsoft.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1896c6c9-a941-4688-a865-29027bf7f8e6@193.124.17.190:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&security=reality&sid=6c825bc79850&sni=www.microsoft.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1896c6c9-a941-4688-a865-29027bf7f8e6@server.slavkiti.monster:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=6c825bc79850&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1896c6c9-a941-4688-a865-29027bf7f8e6@server.slavkiti.monster:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sni=www.microsoft.com&sid=6c825bc79850#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1896c6c9-a941-4688-a865-29027bf7f8e6@server.slavkiti.monster:443?flow=xtls-rprx-vision&fp=random&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&security=reality&sid=6c825bc79850&sni=www.microsoft.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@185.178.208.167:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=stechnostore.life&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&security=tls&sni=stechnostore.life&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
