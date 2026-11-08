@@ -1,6 +1,5 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 2
-trojan://gHQP0D7D15@188.114.96.3:2053?alpn=http%2F1.1&host=marvdasht.phonecomparisonblog.org&path=%2F&security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-vless://00018846-513b-6e3b-5301-9c9ff2d375a3@pl-cdn.fius.dev:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=packet-up&path=/api-test&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingObfsMode":true,"xPaddingKey":"dc","xPaddingHeader":"X-Cache","xPaddingMethod":"tokenish","xPaddingPlacement":"queryInHeader","xPaddingBytes":"100-1000","scMaxEachPostBytes":16384,"scMinPostsIntervalMs":10,"uplinkDataPlacement":"header","uplinkChunkSize":4096,"uplinkHTTPMethod":"OPTIONS"}&insecure=0&host=pl-cdn.fius.dev&fp=chrome&type=xhttp&allowInsecure=0&sni=pl-cdn.fius.dev#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 1
+vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?alpn=channel&flow=xtls-rprx-vision&fp=chrome&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&security=reality&sid=0990d22f&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
