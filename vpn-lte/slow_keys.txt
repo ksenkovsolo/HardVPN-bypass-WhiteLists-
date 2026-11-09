@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 141
+# Количество: 139
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA==@dns27.m3hrzd.ir:8044#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
@@ -141,5 +141,3 @@ vless://1cdafc9c-ae44-44d6-a048-8454c5d26733@45.129.124.16:2066?encryption=none&
 vless://1cdafc9c-ae44-44d6-a048-8454c5d26733@45.129.124.16:2066?flow=xtls-rprx-vision&encryption=none&security=reality&sni=node-44c495a4.g-magnum.icu&fp=chrome&pbk=cJI_cc-h4mGAzDf46UX_eYstthcmXFUVIO3mT3M9zG0&sid=d18f4e&spx=/&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@144.31.157.41:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&security=reality&sid=8f3c6e2a1b5d4f09&sni=tradingview.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@147.45.108.45:443?&security=reality&flow=xtls-rprx-vision&pbk=IuzAWh6UM62Txrnh_No9y5n6wmZecyR1ki8z5xor-0g&fp=chrome&sni=absolute-disaster.org&type=tcp&headerType=none&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://29d09c2e-f354-4ffb-9e3e-9b06065103ea@5.104.74.69:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=D9IxnCLtXuDLR1yBNZwWdxxbNDfsZgN3C9IsqKgG8Ec&security=reality&sid=17a35165f9d25923&sni=uk-room06.filesnap.tech&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
-vless://29f178f7-f96f-46ba-8fc0-bbcd690ba788@82.118.16.189:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zmo2VkZkfjh2kWjaRghXUs39ImQo87LmPhjvzbX3yB4&security=reality&sid=1e9a49dd374c1191&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20TG%3A%20%40HardVpn_robot
