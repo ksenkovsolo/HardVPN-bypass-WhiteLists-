@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 29
+# Количество: 28
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?security=tls&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?headerType=none&security=tls&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?headerType=none&security=tls&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
@@ -28,6 +28,5 @@ vless://13e6bdfd-d51b-4e57-a40e-b88784cba8bd@7cabc1g.de-p1.h1clayd.click:443?enc
 vless://13e6bdfd-d51b-4e57-a40e-b88784cba8bd@7cabc1g.de-p1.h1clayd.click:443?type=grpc&security=reality&fp=chrome&pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&sid=3b84fc70657725af&sni=7cabc1g.de-p1.h1clayd.click&serviceName=8cb5baa18cd7&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@fetch.mediacorphub.org:443?type=grpc&security=tls&fp=firefox&sni=fetch.mediacorphub.org&serviceName=api.v1.FeedService#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@tracker.mediacorphub.org:443?type=grpc&security=tls&fp=firefox&sni=tracker.mediacorphub.org&serviceName=home.v1.ObjectService#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&sid=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@185.178.208.167:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=stechnostore.life&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&security=tls&sni=stechnostore.life&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@185.178.208.167:443?encryption=none&fp=android&host=stechnostore.life&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&security=tls&sni=stechnostore.life&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
