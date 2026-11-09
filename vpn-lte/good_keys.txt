@@ -1,12 +1,5 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 8
-vless://1653818d-532e-46be-b825-384107fb7c3a@images.mediacorphub.org:443?type=grpc&security=tls&fp=firefox&sni=images.mediacorphub.org&serviceName=stats.v2.StreamService#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1653818d-532e-46be-b825-384107fb7c3a@rpc.mediacorphub.org:443?type=grpc&security=tls&fp=firefox&sni=rpc.mediacorphub.org&serviceName=api.v1.FeedService#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1896c6c9-a941-4688-a865-29027bf7f8e6@server.slavkiti.monster:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sni=www.microsoft.com&sid=6c825bc79850#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1b4b11d5-4c2d-4533-9a55-636757cdee94@195.211.98.43:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=xPnpkXu5qfwIArlHKvJsqKJnGdGbJK1tT2GzWMyLohA&sid=9c56fddf237e8eaf&type=tcp&headerType=none&host=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=de1.waspnest.space&fp=firefox&security=reality&pbk=dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM&sid=5212dad2aa9723d7#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM&security=reality&sid=5212dad2aa9723d7&sni=de1.waspnest.space&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM&sni=de1.waspnest.space&sid=5212dad2aa9723d7#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443?type=raw&security=reality&encryption=none&sni=de1.waspnest.space&flow=xtls-rprx-vision&fp=chrome&pbk=dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM&sid=5212dad2aa9723d7#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 1
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de1.waspnest.space&sid=5212dad2aa9723d7#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
