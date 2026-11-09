@@ -3,6 +3,7 @@
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 100
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA==@dns27.m3hrzd.ir:8044#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.152:443/?type=grpc&encryption=none&flow=&serviceName=api.v1.FeedService&security=tls&sni=fetch.mediacorphub.org&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@edge.mediacorphub.org:443?alpn=h2&encryption=none&security=tls&serviceName=hub.v1.ObjectService&sni=edge.mediacorphub.org&type=grpc&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@fetch.mediacorphub.org:443?alpn=h2&encryption=none&security=tls&serviceName=api.v1.FeedService&sni=fetch.mediacorphub.org&type=grpc&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@img.mediacorphub.org:443?alpn=h2&encryption=none&security=tls&serviceName=home.v2.MetricsService&sni=img.mediacorphub.org&type=grpc&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
@@ -101,4 +102,3 @@ vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.150:443?encryption=none&
 vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443/?type=grpc&encryption=none&flow=&serviceName=hub.v1.ObjectService&security=tls&sni=assets.mediacorphub.org&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=edge.mediacorphub.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&security=tls&serviceName=hub.v1.ObjectService&sni=edge.mediacorphub.org&type=grpc&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.152:443/?type=grpc&encryption=none&flow=&serviceName=api.v1.FeedService&security=tls&sni=fetch.mediacorphub.org&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
