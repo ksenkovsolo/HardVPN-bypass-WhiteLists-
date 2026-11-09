@@ -1,11 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA==@dns27.m3hrzd.ir:8044#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA==@185.4.115.146:8044#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.152:443/?type=grpc&encryption=none&flow=&serviceName=api.v1.FeedService&security=tls&sni=fetch.mediacorphub.org&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1653818d-532e-46be-b825-384107fb7c3a@edge.mediacorphub.org:443?alpn=h2&encryption=none&security=tls&serviceName=hub.v1.ObjectService&sni=edge.mediacorphub.org&type=grpc&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1653818d-532e-46be-b825-384107fb7c3a@fetch.mediacorphub.org:443?alpn=h2&encryption=none&security=tls&serviceName=api.v1.FeedService&sni=fetch.mediacorphub.org&type=grpc&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1653818d-532e-46be-b825-384107fb7c3a@img.mediacorphub.org:443?alpn=h2&encryption=none&security=tls&serviceName=home.v2.MetricsService&sni=img.mediacorphub.org&type=grpc&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1653818d-532e-46be-b825-384107fb7c3a@rpc.mediacorphub.org:443?alpn=h2&encryption=none&security=tls&serviceName=api.v1.FeedService&sni=rpc.mediacorphub.org&type=grpc&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://18669c97-4d3e-03e9-a94e-b250e7aac408@161.104.89.43:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DulhUFMYzxIsucjtPONJQMszzyi9V6bqQ9WI3GjGFAY&security=reality&sid=abc123&sni=ya.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM&sni=de1.waspnest.space&sid=5212dad2aa9723d7#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
