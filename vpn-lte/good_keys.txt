@@ -1,8 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 4
+# Количество: 3
 vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TG%3A%20%40HardVpn_robot
 vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&host=/@Net2ray&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TG%3A%20%40HardVpn_robot
 vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?encryption=none&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=music.3apes.online&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
-vless://23b848b7-93e5-4d96-b36d-ed704912e5b7@5.34.178.120:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&fp=chrome&pbk=4RaNuv9yehmcfpdzvRxCWWzEWERWzZSIHqcgg3l35Cw&sid=e16bbf1a5bee2321#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
