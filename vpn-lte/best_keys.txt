@@ -1,13 +1,11 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 46
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDgwNmEyZTRjMzk0NWY0YmEwOGJlYWRlOGQ3MWQ0ZQ@5.202.11.137:555#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 41
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.47.58:18443#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&fp=chrome&sni=learn.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-trojan://70756c73-0000-4000-8000-650000000000@104.234.239.139:443?security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&fp=chrome&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse#%F0%9F%87%BB%F0%9F%87%AC%20Virgin%20Islands%20%28British%29%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@188.114.98.0:443?path=/categories/community/&security=tls&alpn=http/1.1&insecure=0&host=ltf8.jueson.de5.net&type=ws&allowInsecure=0&sni=ltf8.jueson.de5.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&sni=connect-se.mimowhat.online&alpn=h2%2Chttp%2F1.1&fp=safari#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&sni=connect-se.mimowhat.online&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20TG%3A%20%40HardVpn_robot
@@ -44,7 +42,4 @@ vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?encryption=none&fl
 vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&sid=0dfc23fe80778c00&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20TG%3A%20%40HardVpn_robot
 vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?flow=xtls-rprx-vision&fp=random&host=www.cloudflare.com&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&security=reality&sid=0dfc23fe80778c00&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20TG%3A%20%40HardVpn_robot
 vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=0dfc23fe80778c00&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1653818d-532e-46be-b825-384107fb7c3a@rpc.mediacorphub.org:443?encryption=none&type=grpc&security=tls&sni=rpc.mediacorphub.org&fp=firefox&alpn=h2&serviceName=api.v1.FeedService#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1653818d-532e-46be-b825-384107fb7c3a@stats.mediacorphub.org:443?encryption=none&type=grpc&security=tls&sni=stats.mediacorphub.org&fp=firefox&alpn=h2&serviceName=gw.v2.PushService#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1653818d-532e-46be-b825-384107fb7c3a@tracker.mediacorphub.org:443?encryption=none&type=grpc&security=tls&sni=tracker.mediacorphub.org&fp=firefox&alpn=h2&serviceName=home.v1.ObjectService#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@144.31.157.41:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&security=reality&sid=8f3c6e2a1b5d4f09&sni=tradingview.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
