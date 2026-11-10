@@ -1,5 +1,9 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 1
-vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 5
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
+vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TefL2KtNcNLPmUY8TKlu5pA7ffipqgmbBN6gpyzyklk&security=reality&sni=www.apple.com&type=tcp#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20%7C%20TG%3A%20%40HardVpn_robot
+vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=TefL2KtNcNLPmUY8TKlu5pA7ffipqgmbBN6gpyzyklk&type=tcp&headerType=none#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20%7C%20TG%3A%20%40HardVpn_robot
+vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=TefL2KtNcNLPmUY8TKlu5pA7ffipqgmbBN6gpyzyklk&sni=www.apple.com#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20%7C%20TG%3A%20%40HardVpn_robot
+vless://39fec9f5-c53f-4a78-a5e8-a958fdd2ca4c@5.104.74.128:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&security=reality&sid=dbef98744832b751&sni=uk-room07.filesnap.tech&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
