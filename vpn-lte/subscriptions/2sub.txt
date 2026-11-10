@@ -1,8 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 49
-vless://1653818d-532e-46be-b825-384107fb7c3a@img.mediacorphub.org:443?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=home.v2.MetricsService&sni=img.mediacorphub.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 50
 vless://1653818d-532e-46be-b825-384107fb7c3a@img.mediacorphub.org:443?type=grpc&security=tls&fp=chrome&sni=img.mediacorphub.org&serviceName=home.v2.MetricsService#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@live.mediacorphub.org:443?security=tls&serviceName=home.v1.ObjectService&sni=live.mediacorphub.org&type=grpc&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@net.mediacorphub.org:443?sni=net.mediacorphub.org&alpn=h2&type=grpc&serviceName=home.v2.MetricsService&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
@@ -31,7 +30,6 @@ vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?encryption=none&fp
 vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?encryption=none&fp=firefox&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&security=reality&sni=www.samsung.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?type=raw&security=reality&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4&sni=www.samsung.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://36c06e11-028b-40a1-a91f-c8f38f03e829@jp.yi-yi.xyz:8443?flow=xtls-rprx-vision&fp=chrome&pbk=g3T4dVyrbNixv7HvSMlh91cYBa5kEsZCEInB7Xc_AEY&security=reality&sid=956d8072a694ff37&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
 vless://38de3363-7945-402e-9a9b-6f2f9015a44e@157.22.240.224:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=allba.connect-qik.uk&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20TG%3A%20%40HardVpn_robot
 vless://38de3363-7945-402e-9a9b-6f2f9015a44e@193.233.127.149:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=neshka2.kpt99.uk&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://38de3363-7945-402e-9a9b-6f2f9015a44e@allba.connect-qik.uk:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=allba.connect-qik.uk&fp=qq&alpn=h2%2Chttp/1.1#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%7C%20TG%3A%20%40HardVpn_robot
@@ -51,3 +49,6 @@ vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?encryption=none&fl
 vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=TefL2KtNcNLPmUY8TKlu5pA7ffipqgmbBN6gpyzyklk&type=tcp&headerType=none#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20%7C%20TG%3A%20%40HardVpn_robot
 vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=TefL2KtNcNLPmUY8TKlu5pA7ffipqgmbBN6gpyzyklk&sni=www.apple.com#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20%7C%20TG%3A%20%40HardVpn_robot
 vless://39fec9f5-c53f-4a78-a5e8-a958fdd2ca4c@5.104.74.128:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&security=reality&sid=dbef98744832b751&sni=uk-room07.filesnap.tech&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
+vless://3b9189fd-9d29-465e-8c1f-5651af043fe4@188.116.27.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.sony.co.uk&security=reality&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&sid=1174#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://3b9189fd-9d29-465e-8c1f-5651af043fe4@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&security=reality&sid=1174&sni=www.sony.co.uk&spx=/uUr56K29YvRQ5rt&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://3b9189fd-9d29-465e-8c1f-5651af043fe4@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&sni=www.sony.co.uk&sid=1174#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
