@@ -1,7 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 25
+# Количество: 29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDgwNmEyZTRjMzk0NWY0YmEwOGJlYWRlOGQ3MWQ0ZQ==@mojtun.mlbaz.ir:555#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%7C%20TG%3A%20%40HardVpn_robot
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA==@185.4.115.146:8044#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA==@dns27.m3hrzd.ir:8044#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.153.117:18443#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
@@ -18,8 +19,11 @@ vless://1653818d-532e-46be-b825-384107fb7c3a@edge.mediacorphub.org:443?mode=gun&
 vless://1653818d-532e-46be-b825-384107fb7c3a@fetch.mediacorphub.org:443?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=api.v1.FeedService&sni=fetch.mediacorphub.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@fetch.mediacorphub.org:443?sni=fetch.mediacorphub.org&alpn=h2&type=grpc&serviceName=api.v1.FeedService&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@fetch.mediacorphub.org:443?type=grpc&security=tls&fp=chrome&sni=fetch.mediacorphub.org&serviceName=api.v1.FeedService#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@179.236.130.66:20004?encryption=none&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=eu25.cdn77.icu&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20004?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=eu25.cdn77.icu&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20004?type=raw&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu25.cdn77.icu#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20023?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=eu52.cdn77.icu&type=tcp&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20023?encryption=none&type=tcp&security=reality&sni=eu52.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20030?encryption=none&type=tcp&security=reality&sni=eu26.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://300eb7f5-1f70-4979-9230-edd0db37b9ab@reg7.gorodokmedia.com:443?security=reality&sni=reg7.gorodokmedia.com&fp=firefox&pbk=xaD7WtAxvUIk-jejeLGqRGL3BTFEjqbhVFmfax05-1k&sid=201c6c6962533519&flow=xtls-rprx-vision&type=tcp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?encryption=none&fp=firefox&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&security=reality&sid=a1b2c3d4&sni=www.samsung.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot

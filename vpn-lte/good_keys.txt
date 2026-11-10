@@ -1,5 +1,15 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 1
+# Количество: 11
 vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@176.109.85.60:443?encryption=none&fp=firefox&host=api.file-obmen.top&path=%2Fapi%2Fgenerate&security=tls&sni=api.file-obmen.top&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://25ce9135-58c0-46fb-97ad-a39eeff459e9@94.183.164.141:7443?encryption=none&fp=firefox&pbk=unNROkbh95ZZNHzG2RIkgrFftOLldNH0ccmtW63CziE&security=reality&serviceName=ebl&sni=optim.tildacdn.pub&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://2f094d48-7186-1770-9e57-e977bbac3b08@eu90.cdn77.icu:20018?encryption=none&type=tcp&security=reality&sni=sa4.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20023?type=raw&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu52.cdn77.icu#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20023?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=eu52.cdn77.icu&type=tcp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20023?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=eu52.cdn77.icu&type=tcp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20023?security=reality&sni=eu52.cdn77.icu&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&type=tcp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20047?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=eu32.cdn77.icu&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20047?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=eu32.cdn77.icu&type=tcp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20047?encryption=none&type=tcp&security=reality&sni=eu32.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20047?security=reality&sni=eu32.cdn77.icu&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&type=tcp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
