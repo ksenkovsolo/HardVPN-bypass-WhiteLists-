@@ -1,8 +1,10 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 11
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@176.109.85.60:443?encryption=none&fp=firefox&host=api.file-obmen.top&path=%2Fapi%2Fgenerate&security=tls&sni=api.file-obmen.top&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 13
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA==@185.4.115.146:8044#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://13aef2e0-b3fb-4322-a0e9-c10b908ce6b5@server.slavkiti.monster:443?security=reality&type=raw&packetEncoding=xudp&sni=www.techradar.com&fp=chrome&flow=xtls-rprx-vision&sid=87f895f23064&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.149:443?encryption=none&type=grpc&serviceName=home.v2.MetricsService&security=tls&fp=chrome&sni=data.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://25ce9135-58c0-46fb-97ad-a39eeff459e9@94.183.164.141:7443?encryption=none&fp=firefox&pbk=unNROkbh95ZZNHzG2RIkgrFftOLldNH0ccmtW63CziE&security=reality&serviceName=ebl&sni=optim.tildacdn.pub&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://2f094d48-7186-1770-9e57-e977bbac3b08@eu90.cdn77.icu:20018?encryption=none&type=tcp&security=reality&sni=sa4.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20023?type=raw&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu52.cdn77.icu#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
