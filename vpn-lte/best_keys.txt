@@ -1,9 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 5
+# Количество: 3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDgwNmEyZTRjMzk0NWY0YmEwOGJlYWRlOGQ3MWQ0ZQ==@5.202.11.137:555#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%7C%20TG%3A%20%40HardVpn_robot
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.153.117:18443#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.47.58:18443#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@fst.krevetkabs111.net:443?security=tls&sni=fst.krevetkabs111.net&type=ws&host=fst.krevetkabs111.net&path=%2Fapi%2Fgenerate&encryption=none&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@images.mediacorphub.org:443?encryption=none&insecure=0&mode=gun&security=tls&serviceName=stats.v2.StreamService&sni=images.mediacorphub.org&type=grpc&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
