@@ -1,7 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 48
+# Количество: 49
+vless://1653818d-532e-46be-b825-384107fb7c3a@img.mediacorphub.org:443?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=home.v2.MetricsService&sni=img.mediacorphub.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@img.mediacorphub.org:443?type=grpc&security=tls&fp=chrome&sni=img.mediacorphub.org&serviceName=home.v2.MetricsService#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@live.mediacorphub.org:443?security=tls&serviceName=home.v1.ObjectService&sni=live.mediacorphub.org&type=grpc&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@net.mediacorphub.org:443?sni=net.mediacorphub.org&alpn=h2&type=grpc&serviceName=home.v2.MetricsService&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
