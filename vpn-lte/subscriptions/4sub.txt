@@ -1,8 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 17
-vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 16
 vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&sid=33acba1b&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20TG%3A%20%40HardVpn_robot
 vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=random&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&sid=33acba1b&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20TG%3A%20%40HardVpn_robot
 vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&sni=www.apple.com&sid=33acba1b#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20TG%3A%20%40HardVpn_robot
