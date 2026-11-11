@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 14
+# Количество: 12
 trojan://70756c73-0000-4000-8000-650000000000@199.181.197.99:443?security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://duJyVGgB2y0tCFs37Y89NE1fMHXk8C5j@stream.yabenzin.app:443?type=grpc&serviceName=TrojanGRPC&mode=gun&authority=cdn6.yabenzin.app&security=tls&sni=cdn6.yabenzin.app&fp=firefox&alpn=h2#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@images.mediacorphub.org:443?security=tls&serviceName=stats.v2.StreamService&sni=images.mediacorphub.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
@@ -14,5 +14,3 @@ vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.121:443?encryption=none
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.121:443?encryption=none&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&security=reality&sid=e7cffac9f8cfb434&sni=b3cd32g.es1.h1clayd.click&type=grpc&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.245.217.70:443?flow=xtls-rprx-vision&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&security=reality&sid=8d0d0679f42ffd98&sni=8a2e72t.nl11.h1clayd.click&type=raw&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@4935e4t.de25.h1clayd.click:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&spx=/&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
-vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@185.178.208.167:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=mbr.rkn-pediki.site&type=ws&headerType=none&host=mbr.rkn-pediki.site&path=%2Fsession#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@185.178.208.167:443?security=tls&sni=mbr.rkn-pediki.site&alpn=http%2F1.1&fp=ios&type=ws&host=mbr.rkn-pediki.site&path=%2Fsession#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
