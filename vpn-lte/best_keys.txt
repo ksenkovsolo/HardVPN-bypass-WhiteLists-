@@ -1,5 +1,12 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 1
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.153.117:18443#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 8
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@176.109.85.60:443?security=tls&type=ws&sni=api.file-obmen.top&path=%2Fapi%2Fgenerate#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@185.221.213.22:443?path=/assets/sync-6d2f4a&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Frfast11.onlineai.pro&fp=chrome&type=ws&allowInsecure=0&sni=Frfast11.onlineai.pro#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@api.file-obmen.top:443?encryption=none&host=api.file-obmen.top&path=%2Fapi%2Fgenerate&security=tls&sni=api.file-obmen.top&type=ws&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@api.file-obmen.top:443?security=tls&type=ws&sni=api.file-obmen.top&path=%2Fapi%2Fgenerate#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?security=reality&encryption=none&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fa3ea655619a3e78#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s8748.xxti.top:443?security=tls&type=xhttp&path=%2F4d71d1f35cb411d631a066ab9390b905&host=fe65960bs8746.fuhuovps.xyz&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=u695098ufe65960bs8746.fuhuovps.xyz&fp=firefox&encryption=none#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20TG%3A%20%40HardVpn_robot
+vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@185.178.208.167:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=mbr.rkn-pediki.site&type=ws&headerType=none&host=mbr.rkn-pediki.site&path=%2Fsession#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@185.178.208.167:443?security=tls&sni=mbr.rkn-pediki.site&alpn=http%2F1.1&fp=ios&type=ws&host=mbr.rkn-pediki.site&path=%2Fsession#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
