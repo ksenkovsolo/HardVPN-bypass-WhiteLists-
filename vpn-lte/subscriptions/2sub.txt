@@ -2,7 +2,6 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 100
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.147:443?security=tls&serviceName=home.v1.ObjectService&sni=tracker.mediacorphub.org&type=grpc&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.147:443?security=tls&sni=tracker.mediacorphub.org&alpn=h2&fp=chrome&type=grpc&serviceName=home.v1.ObjectService#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=gw.v2.PushService&sni=api.mediacorphub.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&security=tls&serviceName=gw.v2.PushService&sni=api.mediacorphub.org&type=grpc&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
@@ -102,3 +101,4 @@ vless://18669c97-4d3e-03e9-a94e-b250e7aac408@201.24.113.19:8443?flow=xtls-rprx-v
 vless://18669c97-4d3e-03e9-a94e-b250e7aac408@201.24.113.19:8443?flow=xtls-rprx-vision&pbk=DulhUFMYzxIsucjtPONJQMszzyi9V6bqQ9WI3GjGFAY&security=reality&sid=abc123&sni=ya.ru&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://18669c97-4d3e-03e9-a94e-b250e7aac408@201.24.113.19:8443?flow=xtls-rprx-vision&pbk=DulhUFMYzxIsucjtPONJQMszzyi9V6bqQ9WI3GjGFAY&security=reality&sid=abc123&sni=ya.ru&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://18669c97-4d3e-03e9-a94e-b250e7aac408@72.56.11.15:8443?flow=xtls-rprx-vision&pbk=DulhUFMYzxIsucjtPONJQMszzyi9V6bqQ9WI3GjGFAY&security=reality&sid=abc123&sni=ya.ru&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1ad0852d-958b-4a50-863d-8ef3844619ca@5.104.74.162:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&security=reality&sid=dbef98744832b751&sni=uk-room07.filesnap.tech&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
