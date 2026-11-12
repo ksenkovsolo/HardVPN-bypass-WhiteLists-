@@ -2,6 +2,6 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 3
-vless://3567660e-d2a7-4a8a-b379-2ff61e7f52ba@43.155.182.152:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1HazPAvhO7sdmIloNjQEDXtjVP8i-Gn59doTSRVuiGY&security=reality&sid=a905935ed2d659fe&sni=live.douyin.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1b4b11d5-4c2d-4533-9a55-636757cdee94@195.211.98.43:443?flow=xtls-rprx-vision&fp=ios&path=%2F&pbk=xPnpkXu5qfwIArlHKvJsqKJnGdGbJK1tT2GzWMyLohA&security=reality&sid=9c56fddf237e8eaf&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.215:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&security=reality&sid=8d0d0679f42ffd98&sni=8a2e72t.nl11.h1clayd.click&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@188.114.98.0:443?alpn=http%2F1.1&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@v1au.mateflora.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&sni=www.apple.com#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%7C%20TG%3A%20%40HardVpn_robot
