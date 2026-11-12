@@ -2,10 +2,6 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 100
-vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@212.113.116.181:443?alpn=h2&mode=gun&security=tls&serviceName=grpc&sni=de.oncloudvpn.com&type=grpc&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@212.113.116.181:443?encryption=none&fp=firefox&security=tls&serviceName=grpc&sni=de.oncloudvpn.com&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@212.113.116.181:443?encryption=none&type=grpc&serviceName=grpc&mode=gun&authority=de.oncloudvpn.com&security=tls&sni=de.oncloudvpn.com&fp=chrome&alpn=h2#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
-vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&sid=7f1e29593aa94ad1&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
 vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@87.248.149.50:443?type=raw&security=tls&fp=firefox&sni=base.hosamobenl.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?&security=tls&fp=chrome&sni=base.hosamobenl.co.uk&type=tcp&headerType=none&host=base.hosamobenl.co.uk&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@188.225.37.43:443?&security=tls&fp=chrome&sni=torvani.cyou&type=ws&headerType=none&host=torvani.cyou&path=%2Fapi%2Fboards%2Flive#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
@@ -102,3 +98,7 @@ vless://1653818d-532e-46be-b825-384107fb7c3a@rpc.mediacorphub.org:443?type=grpc&
 vless://1653818d-532e-46be-b825-384107fb7c3a@stats.mediacorphub.org:443?alpn=h2&encryption=none&security=tls&serviceName=gw.v2.PushService&sni=stats.mediacorphub.org&type=grpc&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@stats.mediacorphub.org:443?encryption=none&fp=chrome&mode=gun&security=tls&serviceName=gw.v2.PushService&sni=stats.mediacorphub.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1653818d-532e-46be-b825-384107fb7c3a@tracker.mediacorphub.org:443?alpn=h2&encryption=none&security=tls&serviceName=home.v1.ObjectService&sni=tracker.mediacorphub.org&type=grpc&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1653818d-532e-46be-b825-384107fb7c3a@tracker.mediacorphub.org:443?encryption=none&mode=gun&security=tls&serviceName=home.v1.ObjectService&sni=tracker.mediacorphub.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1653818d-532e-46be-b825-384107fb7c3a@tracker.mediacorphub.org:443?security=tls&serviceName=home.v1.ObjectService&sni=tracker.mediacorphub.org&type=grpc&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1b4b11d5-4c2d-4533-9a55-636757cdee94@195.211.98.43:443?flow=xtls-rprx-vision&fp=ios&path=%2F&pbk=xPnpkXu5qfwIArlHKvJsqKJnGdGbJK1tT2GzWMyLohA&security=reality&sid=9c56fddf237e8eaf&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@212.113.116.181:443?alpn=h2&mode=gun&security=tls&serviceName=grpc&sni=de.oncloudvpn.com&type=grpc&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
