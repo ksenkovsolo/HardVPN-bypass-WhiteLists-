@@ -1,10 +1,11 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 8
-vless://4b50270b-5caf-4c34-b3da-17b4525604a6@astravellion.xyz:443?encryption=none&type=grpc&mode=gun&serviceName=glush.de1.v1&security=tls&sni=astravellion.xyz&alpn=h2&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://4b5bada6-0724-4cb1-8105-04737c8a7a3e@194.113.35.240:443?&security=reality&flow=xtls-rprx-vision&pbk=ZKLerhOtbZ9D1Kvfz9w9LPGhYTQmfGs98HthyAy85AQ&sid=503131904226bcad&fp=firefox&sni=www.shinservice.ru&type=tcp&headerType=none&host=www.shinservice.ru&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?flow=xtls-rprx-vision&fp=random&host=www.bing.com&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&security=reality&sid=7f1e29593aa94ad1&sni=www.bing.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 9
+vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@212.113.116.181:443?alpn=h2&mode=gun&security=tls&serviceName=grpc&sni=de.oncloudvpn.com&type=grpc&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@212.113.116.181:443?encryption=none&fp=firefox&security=tls&serviceName=grpc&sni=de.oncloudvpn.com&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@212.113.116.181:443?encryption=none&type=grpc&serviceName=grpc&mode=gun&authority=de.oncloudvpn.com&security=tls&sni=de.oncloudvpn.com&fp=chrome&alpn=h2#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
+vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&sid=7f1e29593aa94ad1&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
 vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de.stream-node6.com&fp=safari&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&sid=98753667b2406829&spx=%2F&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=de.stream-node6.com&fp=safari&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&sid=98753667b2406829&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=reality&encryption=none&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.stream-node6.com&sid=98753667b2406829&spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
