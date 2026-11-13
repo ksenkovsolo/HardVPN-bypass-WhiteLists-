@@ -1,0 +1,8 @@
+# profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
+# profile-update-interval: 2
+#announce: Более хорошие подписки в TG: @hardvpn_robot
+# Количество: 4
+vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?security=reality&type=tcp&sni=www.cloudflare.com&host=www.cloudflare.com&fp=random&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&sid=6bdc8320#%F0%9F%87%AE%F0%9F%87%B3%20India%20%7C%20TG%3A%20%40HardVpn_robot
+vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=6bdc8320#%F0%9F%87%AE%F0%9F%87%B3%20India%20%7C%20TG%3A%20%40HardVpn_robot
+vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&sni=www.cloudflare.com&sid=6bdc8320#%F0%9F%87%AE%F0%9F%87%B3%20India%20%7C%20TG%3A%20%40HardVpn_robot
+vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?security=reality&type=tcp&sni=www.cloudflare.com&host=www.cloudflare.com&fp=random&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&sid=6bdc8320#%F0%9F%87%AE%F0%9F%87%B3%20India%20%7C%20TG%3A%20%40HardVpn_robot
