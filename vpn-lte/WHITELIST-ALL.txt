@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 217
+# Количество: 218
 vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@185.178.208.167:443?security=tls&sni=mbr.rkn-pediki.site&alpn=http%2F1.1&fp=ios&type=ws&host=mbr.rkn-pediki.site&path=%2Fsession#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@mbr.rkn-pediki.site:443?path=/session&security=tls&encryption=none&insecure=0&host=mbr.rkn-pediki.site&fp=chrome&type=ws&allowInsecure=0&sni=mbr.rkn-pediki.site#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vkvd754.okcdn.ru&fp=chrome&security=reality&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&sid=ef1d3554c652a436#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
@@ -218,4 +218,5 @@ vless://72dd8678-1ac5-4357-9f7e-97e367e2a835@5.104.74.22:8443?encryption=none&fl
 vless://72dd8678-1ac5-4357-9f7e-97e367e2a835@5.104.74.22:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=D9IxnCLtXuDLR1yBNZwWdxxbNDfsZgN3C9IsqKgG8Ec&sni=uk-room06.filesnap.tech&sid=17a35165f9d25923#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
 vless://73cb2a0d-e2a9-4e61-a343-f2845e8c272e@107.181.151.128:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.tradingview.com&fp=firefox&security=reality&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&sid=611ceeb0ae78#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
 vless://73cb2a0d-e2a9-4e61-a343-f2845e8c272e@107.181.151.128:443?security=reality&encryption=none&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=611ceeb0ae78#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
+vless://73cb2a0d-e2a9-4e61-a343-f2845e8c272e@webdisk.jaggyslawa.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tradingview.com&fp=edge&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&sid=611ceeb0ae78&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
 vless://73cb2a0d-e2a9-4e61-a343-f2845e8c272e@webdisk.jaggyslawa.org:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.tradingview.com&fp=chrome&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&sid=611ceeb0ae78#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
