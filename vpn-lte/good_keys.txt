@@ -1,7 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 3
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-vless://3567660e-d2a7-4a8a-b379-2ff61e7f52ba@43.155.182.152:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1HazPAvhO7sdmIloNjQEDXtjVP8i-Gn59doTSRVuiGY&security=reality&sid=a905935ed2d659fe&sni=live.douyin.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 4
+vless://270ce025-3b4e-49a9-884e-c24062143cbc@162.216.231.214:443?encryption=none&type=xhttp&path=%2F&host=liggo.love&mode=auto&security=reality&sni=liggo.love&fp=chrome&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://29d09c2e-f354-4ffb-9e3e-9b06065103ea@5.104.74.69:8443?security=reality&encryption=none&pbk=D9IxnCLtXuDLR1yBNZwWdxxbNDfsZgN3C9IsqKgG8Ec&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk-room06.filesnap.tech&sid=17a35165f9d25923#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
+vless://3a7849e7-8ef6-492f-860d-54dd6aae400a@pl4.soshelper.space:443?security=reality&encryption=none&pbk=9UG9zvrDpiPgY_J0dvB-n10ygEw3FzJ2qT8PFtITUBE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl4.soshelper.space&sid=e06e30590f288e0f#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
 vless://407d047a-d9b4-41f3-8a02-ebc53854efca@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&security=reality&sid=1174&sni=www.sony.co.uk&spx=%2FuUr56K29YvRQ5rt&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
