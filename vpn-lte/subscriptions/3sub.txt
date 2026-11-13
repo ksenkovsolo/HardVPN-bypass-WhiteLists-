@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 52
+# Количество: 53
 vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.239.182:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&sid=7a76f3c4b9dd&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.239.182:443?security=reality&type=raw&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdvymxi.cvewfjg.shop:443?&security=reality&flow=xtls-rprx-vision&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&sid=7a76f3c4b9dd&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=jdvymxi.cvewfjg.shop&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
@@ -54,3 +54,4 @@ vless://7955bf18-35c4-412d-aabd-c0b36c793063@nguyxejonb.flowersgood.top:443?encr
 vless://7955bf18-35c4-412d-aabd-c0b36c793063@nguyxejonb.flowersgood.top:443?security=tls&type=ws&sni=nguyxejonb.flowersgood.top&path=%2Fservice%2Ftelemetry%2F0294da469190%2F&host=nguyxejonb.flowersgood.top&encryption=none&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443/?encryption=none&flow=xtls-rprx-vision&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&security=reality&sid=2ef2b10d5143d798&sni=mirror-50.topp-con.xyz&type=tcp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?&security=reality&flow=xtls-rprx-vision&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&sid=2ef2b10d5143d798&fp=chrome&sni=mirror-50.topp-con.xyz&type=tcp&headerType=none&host=mirror-50.topp-con.xyz&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://7d53c50c-3abf-4cb5-9d58-e7a42ce1d1c6@148.113.5.22:443?security=reality&encryption=none&pbk=Z427KvuqeeUvrRo-BDKuc9xG5t0z0y4zAnhA_NIFFwI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7ff98efcced3fd5b#%F0%9F%87%AE%F0%9F%87%B3%20India%20%7C%20TG%3A%20%40HardVpn_robot
