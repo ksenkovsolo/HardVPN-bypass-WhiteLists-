@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 121
+# Количество: 122
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.208:443?security=tls&fp=chrome&sni=blog.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?headerType=none&insecure=0&security=tls&sni=blog.connectingpeoplewithgreatjobs.com&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%7C%20TG%3A%20%40HardVpn_robot
@@ -41,6 +41,7 @@ vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@48.102.169.194:8443?encryption=none
 vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@48.102.170.205:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&security=reality&sid=8f3c6e2a1b5d4f09&sni=tradingview.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@48.102.170.205:8443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@cloud-de01.dynv6.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&sid=8f3c6e2a1b5d4f09#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@147.45.108.45:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IuzAWh6UM62Txrnh_No9y5n6wmZecyR1ki8z5xor-0g&security=reality&sni=absolute-disaster.org&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@147.45.108.45:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=IuzAWh6UM62Txrnh_No9y5n6wmZecyR1ki8z5xor-0g&sni=absolute-disaster.org#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://23b848b7-93e5-4d96-b36d-ed704912e5b7@5.34.178.120:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&fp=chrome&pbk=4RaNuv9yehmcfpdzvRxCWWzEWERWzZSIHqcgg3l35Cw&sid=e16bbf1a5bee2321#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://2c4a1725-5b9e-4759-a792-72c52f12967a@caudal-reason.freevideochats.org:443?&security=reality&flow=xtls-rprx-vision&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&fp=chrome&sni=challenge.worldoftanks.eu&type=tcp&headerType=none&host=challenge.worldoftanks.eu&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
