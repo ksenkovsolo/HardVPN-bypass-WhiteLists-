@@ -2,7 +2,7 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 6
-vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?flow=xtls-rprx-vision&fp=ios&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&security=reality&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@217.60.35.236:5443?security=tls&sni=nl.nebulaguard.org&alpn=h2,http/1.1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:11802?&security=reality&flow=xtls-rprx-vision&pbk=FUBjYwXlKIVwF7IuJf5dt_HU2sUnrEt10s4TIlTe8Q4&sid=6c84fbac2d&fp=ios&sni=psstatic.cdn.bcebos.com&type=tcp&headerType=none&host=psstatic.cdn.bcebos.com&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?security=reality&encryption=none&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=psstatic.cdn.bcebos.com&sid=6a60e7e382d6#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&sni=psstatic.cdn.bcebos.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot

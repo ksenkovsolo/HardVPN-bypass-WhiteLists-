@@ -1,9 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 5
-vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?flow=xtls-rprx-vision&fp=random&host=www.cloudflare.com&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&security=reality&sid=fa3ea655619a3e78&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
-vless://2db48a26-c97d-40c3-b8e2-8f04f1cfb512@2.26.8.1:443?encryption=none&flow=xtls-rprx-vision&pbk=t7dd2ar4QX4JaQz2FvVjE44XLT0jj7Z-0raaAQ6Y9As&security=reality&sid=f822140f54644166&sni=bg.edgemedia.lol&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.215:443?type=tcp&flow=xtls-rprx-vision&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&security=reality&sid=8d0d0679f42ffd98&sni=8a2e72t.nl11.h1clayd.click&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 3
+vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?flow=xtls-rprx-vision&fp=ios&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&security=reality&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@45.152.113.206:443?&security=reality&flow=xtls-rprx-vision&pbk=Thx57ocixT-wpeK_mdnJaluVW6eAwhlMgglxgjxEmhs&sid=65557338e1cd5605&fp=firefox&sni=1.ru.oncloudnineservicestreang.com&type=tcp&headerType=none&host=1.ru.oncloudnineservicestreang.com&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@45.152.113.206:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=1.ru.oncloudnineservicestreang.com&fp=chrome&pbk=Thx57ocixT-wpeK_mdnJaluVW6eAwhlMgglxgjxEmhs&sid=65557338e1cd5605&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
