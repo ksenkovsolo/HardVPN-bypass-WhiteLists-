@@ -1,7 +1,9 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 19
+# Количество: 21
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@connect6.blog-forme.ru:443?encryption=none&path=%2Fv2%2Fconnect%2Fa9cbd64ca09f8612&security=tls&sni=connect6.blog-forme.ru&type=ws&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@connect6.blog-forme.ru:443?encryption=none&type=ws&security=tls&sni=connect6.blog-forme.ru&path=/v2/connect/a9cbd64ca09f8612#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@176.97.68.100:443?security=reality&flow=xtls-rprx-vision&sni=www.apple.com&type=tcp&fp=ios&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%7C%20TG%3A%20%40HardVpn_robot
 vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?security=tls&sni=kfx7q.bakarova-top.ru&alpn=h2&fp=firefox&type=xhttp&host=kfx7q.bakarova-top.ru&path=%2Fapi%2Fv2%2Fevents&mode=packet-up#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://5f387ecb-781c-4256-8111-142ca3f31ab7@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&security=reality&sid=1174&sni=www.sony.co.uk&spx=/uUr56K29YvRQ5rt&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot

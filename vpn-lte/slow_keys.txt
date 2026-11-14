@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 101
+# Количество: 103
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.208:443?security=tls&fp=chrome&sni=blog.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?headerType=none&insecure=0&security=tls&sni=blog.connectingpeoplewithgreatjobs.com&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?headerType=none&insecure=0&security=tls&sni=blog.connectingpeoplewithgreatjobs.com&type=tcp&fp=safari#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%7C%20TG%3A%20%40HardVpn_robot
@@ -83,6 +83,8 @@ vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.153.245.181:443?host=jp3.yohotot
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.66.129.225:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
 vless://50414e45-4c5f-5a45-5553-f277a169a331@aghil.gamse.ir:8443?encryption=none&fp=unsafe&host=0wznu8e3ut0s.q2znzkeiurys.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Ff277a169a331&security=tls&sni=0wznu8e3ut0s.q2znzkeiurys.workers.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&fp=chrome&host=www.apple.com&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@connect6.blog-forme.ru:443?alpn=http%2F1.1&encryption=none&path=%2Fv2%2Fconnect%2Fa9cbd64ca09f8612&security=tls&sni=connect6.blog-forme.ru&type=ws&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@connect6.blog-forme.ru:443?encryption=none&path=%2Fv2%2Fconnect%2Fa9cbd64ca09f8612&security=tls&sni=connect6.blog-forme.ru&type=ws&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@connect6.blog-forme.ru:443?encryption=none&type=ws&security=tls&sni=connect6.blog-forme.ru&path=/v2/connect/a9cbd64ca09f8612#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@176.97.68.100:443?security=reality&flow=xtls-rprx-vision&sni=www.apple.com&type=tcp&fp=ios&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%7C%20TG%3A%20%40HardVpn_robot
 vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?security=tls&sni=kfx7q.bakarova-top.ru&alpn=h2&fp=firefox&type=xhttp&host=kfx7q.bakarova-top.ru&path=%2Fapi%2Fv2%2Fevents&mode=packet-up#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
