@@ -1,10 +1,9 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 6
+# Количество: 5
 vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@3eebf4b1.plp1.h1cloud.net:443?encryption=none&pbk=Rbho8R1xROOFPv5tCWDCcePuAxbzNuviUn91jR9CdQ4&security=reality&sid=6941a08bb53ea2a1&sni=3eebf4b1.plp1.h1cloud.net&spx=%2F&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@3eebf4b1.plp1.h1cloud.net:443?type=tcp&security=reality&sni=3eebf4b1.plp1.h1cloud.net&fp=chrome&pbk=Rbho8R1xROOFPv5tCWDCcePuAxbzNuviUn91jR9CdQ4&sid=6941a08bb53ea2a1&spx=/&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://6392cd80-967f-0007-a4b2-41502f5c68b6@81.90.24.156:443?security=reality&encryption=none&pbk=cf7j5G-01AQB0n1WWdVnviRnG32BCLdCMdEe9-s3BA0&headerType=none&fp=edge&spx=%2Fv1%2Fcomplete&type=tcp&flow=xtls-rprx-vision&sni=vh4x9pq2nd7msk3e.quillmesh.cyou&sid=b0d8f264b7ac8ac0#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
 vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@195.206.235.7:443?encryption=none&fp=firefox&pbk=C_DlyXDDS4fWcAlxb-6O7LBKtq28fg2slCrH5tPaTQ4&security=reality&serviceName=98b9c56e8ebb&sid=16cea10606a4e401&sni=a566d1g.de7.h1clayd.click&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@195.206.235.7:443?encryption=none&pbk=C_DlyXDDS4fWcAlxb-6O7LBKtq28fg2slCrH5tPaTQ4&security=reality&serviceName=98b9c56e8ebb&sid=16cea10606a4e401&sni=a566d1g.de7.h1clayd.click&type=grpc&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?flow=xtls-rprx-vision&fp=chrome&host=www.cloudflare.com&path=%2F&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&security=reality&sid=fd8cf7e1173f0edb&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot

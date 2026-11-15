@@ -1,6 +1,11 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 2
+# Количество: 7
 vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@201.58.139.183:443?encryption=none&fp=firefox&pbk=Rbho8R1xROOFPv5tCWDCcePuAxbzNuviUn91jR9CdQ4&security=reality&sid=6941a08bb53ea2a1&sni=3eebf4b1.plp1.h1cloud.net&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
 vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@3eebf4b1.plp1.h1cloud.net:443?type=tcp&security=reality&fp=chrome&pbk=Rbho8R1xROOFPv5tCWDCcePuAxbzNuviUn91jR9CdQ4&sid=6941a08bb53ea2a1&sni=3eebf4b1.plp1.h1cloud.net#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://Fluffy_VPN-Oth8rOq3@104.171.135.229:443?&security=reality&flow=xtls-rprx-vision&pbk=mpo4BIcoWiMXAQGt5a8IJ4MFkPJQyLC50dO_bXzC7z0&fp=chrome&sni=absolute-disaster.org&type=tcp&headerType=none&host=absolute-disaster.org&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://Fluffy_VPN-Oth8rOq3@104.171.135.229:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=absolute-disaster.org&fp=firefox&pbk=mpo4BIcoWiMXAQGt5a8IJ4MFkPJQyLC50dO_bXzC7z0&type=tcp&headerType=none&host=absolute-disaster.org#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://Fluffy_VPN-Oth8rOq3@104.171.135.229:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=mpo4BIcoWiMXAQGt5a8IJ4MFkPJQyLC50dO_bXzC7z0&sni=absolute-disaster.org#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://Fluffy_VPN-zKZUa4Ie@147.45.108.45:443?&security=reality&flow=xtls-rprx-vision&pbk=IuzAWh6UM62Txrnh_No9y5n6wmZecyR1ki8z5xor-0g&fp=firefox&sni=absolute-disaster.org&type=tcp&headerType=none&host=absolute-disaster.org&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://Fluffy_VPN-zKZUa4Ie@72.56.38.83:443?&security=reality&flow=xtls-rprx-vision&pbk=ZzIetLcQtENjIXQ9XZqFo8p3J81p8Emj0wi51Uy07n8&fp=firefox&sni=absolute-disaster.org&type=tcp&headerType=none&host=absolute-disaster.org&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
