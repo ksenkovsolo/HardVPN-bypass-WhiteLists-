@@ -1,13 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 9
+# Количество: 4
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@185.178.208.167:443?encryption=none&fp=firefox&host=speakpro.lol&path=%2Fuseraction%2Fmetrics%2F4c907dfe0305%2F&security=tls&sni=speakpro.lol&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://3ecbd833-40d8-4ddb-b80b-a7c4628ec7e5@185.86.145.55:10470?alpn=h2&security=tls&serviceName=wn-adaptcloud&sni=wn-pl4.static-s3.org&type=grpc&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@185.242.247.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&security=reality&sid=8d0d0679f42ffd98&sni=8a2e72t.nl20.h1clayd.shop&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@8a2e72t.nl20.h1clayd.shop:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&sid=8d0d0679f42ffd98&sni=8a2e72t.nl20.h1clayd.shop#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
-vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@89.248.65.152:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=images.porsche.com&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&sid=1a2b3c4d&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:55688?&security=reality&flow=xtls-rprx-vision&pbk=6dqd0hqbC0bht9RtsYamvlYdMpxyUbk7uXw0xtO8DzQ&sid=865c1b2c&fp=chrome&sni=bilibili-vn.biliimg.com&type=tcp&headerType=none&host=bilibili-vn.biliimg.com&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:55688?security=reality&type=tcp&packetEncoding=none&sni=bilibili-vn.biliimg.com&fp=chrome&flow=xtls-rprx-vision&sid=865c1b2c&pbk=6dqd0hqbC0bht9RtsYamvlYdMpxyUbk7uXw0xtO8DzQ#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
-vless://632cd343-1e8f-4bf6-a9a2-20ada1f6970f@138.124.244.105:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=XQWaIMBPo0mpWs3MooxxkjWNSgxnkIESd_2PnR8_2HA&sid=1061f1b1cdaad3ad&sni=3fb2b6t.se1.h1clayd.click#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=/ccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&type=xhttp&allowInsecure=0&sni=sorrel-gate.cdn.cachefleet.com#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
