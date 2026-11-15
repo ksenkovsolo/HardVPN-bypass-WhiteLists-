@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 92
+# Количество: 91
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.215:443?encryption=none&flow=xtls-rprx-vision&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&security=reality&sid=8d0d0679f42ffd98&sni=8a2e72t.nl11.h1clayd.click&type=tcp&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.44:443?encryption=none&fp=firefox&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&security=reality&sid=e7cffac9f8cfb434&sni=b3cd32g.es1.h1clayd.click&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.44:443?security=reality&flow=xtls-rprx-vision&sni=7aa271t.es1.h1clayd.click&type=tcp&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
@@ -41,7 +41,6 @@ vless://747db87a-0cf6-4ea7-ae6b-3293afe2cef6@62981et.us11.h1clayd.click:443?secu
 vless://74821d64-581c-4461-b92d-d61827ab7452@37.221.76.117:2088?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bvG7GBU_gOKuBuAagnC07EbQZ_2tJ8OhBNSVGkHSugo&security=reality&sid=66d62ef550107695&sni=www.apple.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20TG%3A%20%40HardVpn_robot
 vless://74b86103-0a6e-4a0e-8430-2aa84af805fc@104.168.109.213:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&type=tcp&pbk=rU4-ii54LkmEWBaliTQHvi3jc0fDTlSmutVtzedMNRM&sid=6ba7b8#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://7a321b5c-521a-0001-a902-32716218a804@185.178.208.167:443?security=tls&sni=api.14887277.xyz&type=ws&host=api.14887277.xyz&path=%2Fsession&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@147.45.153.29:443?&security=reality&flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba&fp=chrome&sni=patch-46.topp-con.xyz&type=tcp&headerType=none&host=patch-46.topp-con.xyz&path=/#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@147.45.153.29:443?flow=xtls-rprx-vision&headerType=none&host=patch-46.topp-con.xyz&path=%2F&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-46.topp-con.xyz&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@147.45.153.29:443?flow=xtls-rprx-vision&headerType=none&host=patch-46.topp-con.xyz&path=%2F&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-46.topp-con.xyz&type=tcp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&security=tls&sni=mosaic.topp-con.xyz&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
