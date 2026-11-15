@@ -1,8 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 6
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@147.45.108.45:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=IuzAWh6UM62Txrnh_No9y5n6wmZecyR1ki8z5xor-0g&sni=absolute-disaster.org#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 5
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@speakpro.lol:443?security=tls&type=ws&sni=speakpro.lol&path=%2Fuseraction%2Fmetrics%2F4c907dfe0305%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://3ecbd833-40d8-4ddb-b80b-a7c4628ec7e5@185.86.145.55:10470?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=wn-adaptcloud&sni=wn-pl4.static-s3.org&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://3ecbd833-40d8-4ddb-b80b-a7c4628ec7e5@185.86.145.55:10470?encryption=none&mode=gun&security=tls&serviceName=wn-adaptcloud&sni=wn-pl4.static-s3.org&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
