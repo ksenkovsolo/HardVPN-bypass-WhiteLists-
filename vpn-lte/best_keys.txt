@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 39
+# Количество: 40
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZjJOcTVZTG55Y2xQYVdSOG15Ny9WZGQzWlg4VVJuY1haTmx5NStIY1VTcz06ZFE2V1ljUHBHWDV4SXhVVlBBUjh3MUE5ZVk2a0VWb0tLVzNIbGVKNm84WT0=@frr.drwrdoh.org:8086#%F0%9F%8C%90%20Unknown%20%7C%20TG%3A%20%40HardVpn_robot
 vless://03d57df7-d126-462a-8776-070a900cd1b0@87.120.252.67:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&security=reality&sni=www.worldoftanks.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://03d57df7-d126-462a-8776-070a900cd1b0@caudal-reason.freevideochats.org:443?security=reality&encryption=none&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.worldoftanks.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
@@ -16,6 +16,7 @@ vless://1e6bb05f-2d45-4f88-ae4d-4baa2763e4cf@45.92.219.227:8443?encryption=none&
 vless://21c24d1c-d938-495a-b33f-957bc65d301f@170.168.25.39:443?&security=reality&flow=xtls-rprx-vision&pbk=ZwMEL1FEHRGDKBNqSLnpHwSiEUPvY7vTk_cUIczPnEQ&sid=b21d9c9270653002&fp=firefox&sni=detectportal.firefox.com&type=tcp&headerType=none&host=detectportal.firefox.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@72.56.19.142:443?security=tls&flow=xtls-rprx-vision&fp=chrome&sni=app.streamru5.net#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?encryption=none&fp=firefox&path=/api/vless&security=tls&sni=daily-author.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?fp=random&host=www.samsung.com&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&security=reality&sid=a1b2c3d4&sni=www.samsung.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://319822ed-8c51-4a22-be6b-39876f7ece51@87.120.252.67:443?security=reality&encryption=none&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=worldoftanks.asia#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@n1.topingr.ir:443?host=cdn2.zovip2.ir&path=%2Fapi%2Fv3%2Fpulse&security=tls&sni=cdn2.zovip2.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@132.243.67.225:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%7C%20TG%3A%20%40HardVpn_robot
