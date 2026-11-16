@@ -1,7 +1,13 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 3
+# Количество: 9
 vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.cloudflare.com&alpn=channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn╨⌐╥û&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&sid=0990d22f&headertype=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://13e6bdfd-d51b-4e57-a40e-b88784cba8bd@132.243.163.154:443?encryption=none&fp=firefox&pbk=shUbIWcBJdXaDzO80KqTU9exgMarUCOiiZ56Dwl7XVU&security=reality&serviceName=43f41cd7fee0&sid=7a8e24da4eb2c1b5&sni=ec7a81g.de15.h1clayd.click&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?security=reality&encryption=none&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?encryption=none&fp=firefox&path=/api/vless&security=tls&sni=daily-author.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.34:443?encryption=none&flow=xtls-rprx-vision&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&security=reality&sid=8d0d0679f42ffd98&sni=8a2e72t.nl11.h1clayd.click&type=tcp&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.34:443?encryption=none&flow=xtls-rprx-vision&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&security=reality&sid=8d0d0679f42ffd98&sni=8a2e72t.nl11.h1clayd.click&type=tcp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@188.225.73.41:443?encryption=none&fp=edge&mode=gun&security=tls&serviceName=cache.sync.v1&sni=cadrin.wtf&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@188.225.73.41:443?encryption=none&fp=random&mode=gun&security=tls&serviceName=cache.sync.v1&sni=cadrin.wtf&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@196.245.153.105:443?encryption=none&fp=firefox&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=345739t.de15.h1clayd.click&type=tcp#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20%7C%20TG%3A%20%40HardVpn_robot
