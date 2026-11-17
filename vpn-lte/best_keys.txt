@@ -1,10 +1,13 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 6
+# Количество: 9
+vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@45.90.99.126:443?encryption=none&fp=firefox&pbk=RqABpaIKrmdoK0pwnQ5zUP2c3Dh5cLw0ueT1hb35txk&security=reality&serviceName=4c9e80459954&sid=cd9f7c819a97cea9&sni=62764fg.nl19.h1clayd.shop&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=146.19.254.171&fp=chrome&alpn=h2%2Chttp/1.1%2Ch3#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@171.22.183.159:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=171.22.183.159&fp=firefox&alpn=h2%2Chttp/1.1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?type=ws&security=tls&path=/api/vless&sni=daily-author.ru&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://2f6a56d5-2ee9-43ab-bd57-8b35a0b8d275@homestead-walloping.sports-streams.org:443?&security=reality&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&fp=chrome&sni=supersklep.pl&type=xhttp#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20TG%3A%20%40HardVpn_robot
+vless://537d8ade-134d-4ec2-905c-0187e7e1e22e@f0f0bet.fi2.h1clayd.click:443?encryption=none&pbk=_oCg5rCW6XTxriBPzbd_AX0os6QhenVYO9cbrsDSyRY&security=reality&sid=cf2a731a5f2dc451&sni=f0f0bet.fi2.h1clayd.click&spx=%2F&type=grpc&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://5bbbbf2c-9031-4511-8222-b6cecd5a5291@144.31.228.110:8443?&security=tls&fp=random&sni=it-mil.862400.xyz&type=ws&headerType=none&host=it-mil.862400.xyz&path=%2Fannouncement%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://81d8d985-3708-5fe1-b931-34a13cd5464c@8.6.112.0:443?encryption=none&fp=firefox&host=nl1.v2less.site&path=/vless&security=tls&sni=nl1.v2less.site&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-vless://89e2dc6c-dd20-43e6-aac2-d8c482d9cc36@185.178.208.167:443?encryption=none&fp=firefox&host=speakpro.lol&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&security=tls&sni=uwugirl.dev&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
