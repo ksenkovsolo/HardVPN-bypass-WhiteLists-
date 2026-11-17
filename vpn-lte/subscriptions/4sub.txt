@@ -1,8 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 60
-vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?security=reality&encryption=none&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=52c723e0fad49689#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 59
 vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?encryption=none&fp=firefox&path=/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&sni=o685y.save-node.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?encryption=none&host=o685y.save-node.com&path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&sni=o685y.save-node.com&type=ws&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?encryption=none&host=o685y.save-node.com&path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&sni=o685y.save-node.com&type=ws&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
