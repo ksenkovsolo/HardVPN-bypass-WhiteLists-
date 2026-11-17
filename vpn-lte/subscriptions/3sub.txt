@@ -1,9 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 47
-vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@195.206.235.227:443?encryption=none&fp=firefox&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=345739t.de15.h1clayd.click&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&fp=chrome&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&sid=fd8cf7e1173f0edb#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 45
 vless://SoonTeam @fr.abbaas.net:8443?mode=auto&path=/soon&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=GgO_laVIFUL5JOZrIesfGewuZSXQMLhC-ASCW76ziSk&fp=chrome&spx=/78ed60190db0c5a&type=xhttp&sni=stage.theweathercompany.info&sid=b4b7#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TG%3A%20%40HardVpn_robot
 vless://SoonTeam%20@fr.abbaas.net:443?security=reality&encryption=none&pbk=wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs&headerType=none&fp=chrome&spx=%2F96792ab71d05b03&type=tcp&sni=weather.com&sid=7e3eec#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TG%3A%20%40HardVpn_robot
 vless://SoonTeam%20@fr.abbaas.net:8443?mode=auto&path=%2Fsoon&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=GgO_laVIFUL5JOZrIesfGewuZSXQMLhC-ASCW76ziSk&fp=chrome&spx=%2F78ed60190db0c5a&type=xhttp&sni=w-x.co&sid=b4b7#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TG%3A%20%40HardVpn_robot
