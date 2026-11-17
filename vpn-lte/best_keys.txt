@@ -1,9 +1,11 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 5
+# Количество: 7
+vless://003ec416-45f0-462a-8030-016fe0a71703@45.135.235.90:443?encryption=none&type=xhttp&security=tls&sni=51.baklajann.ru&path=%2F&host=51.baklajann.ru#%F0%9F%87%A7%F0%9F%87%BF%20Belize%20%7C%20TG%3A%20%40HardVpn_robot
+vless://038e6b17-84e9-4ace-8973-8ef2308ed6e1@2.27.40.12:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&security=reality&sid=6ad3c0f1e9b2478a&sni=yandex.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://0b22812b-4a79-42b1-93ec-5b157b0f2f7f@191.217.205.175:8443?security=reality&type=xhttp&path=%2Fassets%2F6c0f3ad762cb7ff51b454076&host=de.krabvpn.pro&packetEncoding=none&sni=de.krabvpn.pro&fp=firefox&sid=64ad711102f56ca2&pbk=1SldfhWqqF_Rg9QlPKQqufcHi5GhkxwcEV5HGyOy4Qg&mode=auto#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
+vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@185.178.208.167:443?alpn=http%2F1.1&encryption=none&host=speakpro.lol&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&security=tls&sni=uwugirl.dev&type=ws&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@speakpro.lol:443?security=tls&type=ws&sni=uwugirl.dev&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&alpn=http%25252F1.1&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@speakpro.lol:443?security=tls&type=ws&sni=uwugirl.dev&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&alpn=http%252F1.1&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@37.49.225.52:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=api-ns-ctl.galioncc.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@91.217.10.237:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=api-ns-mgr.galioncc.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%7C%20TG%3A%20%40HardVpn_robot
-vless://a346c521-7a7f-452b-9356-a4893feb5982@147.45.60.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&sid=457fab2ac885dbe0&sni=usahk2-r.bankai.party&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1bd6c8a2-01db-4a3d-8b2c-0b2f2c3e8b5a@38.244.5.231:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=DUpNPvLjiL1GzeF7DfKWba-LYLz1KPuQXewhgNGPiDM&sid=ab0a5b56#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@cloud-de01.dynv6.net:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
