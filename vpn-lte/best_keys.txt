@@ -1,6 +1,10 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 2
-vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?encryption=none&host=vpn-rating.space&path=%2Fapi%2Fvless&security=tls&sni=daily-author.ru&type=ws&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 6
+vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@speakpro.lol:443?security=tls&type=ws&sni=uwugirl.dev&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&alpn=http%25252F1.1&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@speakpro.lol:443?security=tls&type=ws&sni=uwugirl.dev&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&alpn=http%252F1.1&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@37.49.225.52:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=api-ns-ctl.galioncc.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@91.217.10.237:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=api-ns-mgr.galioncc.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%7C%20TG%3A%20%40HardVpn_robot
+vless://a346c521-7a7f-452b-9356-a4893feb5982@147.45.60.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&sid=457fab2ac885dbe0&sni=usahk2-r.bankai.party&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://b4192dfb-f458-4303-b877-29a41a6d8416@94.183.164.176:443?encryption=none&type=grpc&serviceName=ebl&mode=multi&security=reality&sni=optim.tildacdn.pub&fp=chrome&pbk=_KeOS5u_irk1547CMVB3RdwQzz1SzrQZk-IV-btF7TU#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
