@@ -1,4 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 0
+# Количество: 3
+vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@62764fg.nl19.h1clayd.shop:443?pbk=RqABpaIKrmdoK0pwnQ5zUP2c3Dh5cLw0ueT1hb35txk&security=reality&serviceName=4c9e80459954&sid=cd9f7c819a97cea9&sni=62764fg.nl19.h1clayd.shop&spx=%2F&type=grpc&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
+vless://3ede439b-410f-4eae-b449-4e15064c0706@109.172.54.235:443?encryption=none&fp=firefox&pbk=cWC6AGVZ9ke_eCTWXEB-eLdf670CuoP9zP-1k8DrPxo&security=reality&serviceName=d5d6142b8b66&sid=8ae9cc8c9447c95a&sni=13e1cfg.plp1.h1cloud.net&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.214.159:443?&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=a7c92e4b10d6f835&fp=firefox&sni=api-svc-mgr.galioncc.com&type=tcp&headerType=none&host=api-svc-mgr.galioncc.com&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20TG%3A%20%40HardVpn_robot

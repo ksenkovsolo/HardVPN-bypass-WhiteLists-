@@ -1,5 +1,9 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 1
+# Количество: 5
+vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=146.19.254.171&fp=chrome&alpn=h2%2Chttp/1.1%2Ch3#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@171.22.183.159:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=171.22.183.159&fp=firefox&alpn=h2%2Chttp/1.1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?type=ws&security=tls&path=/api/vless&sni=daily-author.ru&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://89e2dc6c-dd20-43e6-aac2-d8c482d9cc36@185.178.208.167:443?encryption=none&fp=firefox&host=speakpro.lol&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&security=tls&sni=uwugirl.dev&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
