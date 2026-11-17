@@ -1,5 +1,4 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 1
-vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?encryption=none&host=vpn-rating.space&path=%2Fapi%2Fvless&security=tls&sni=daily-author.ru&type=ws&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 0
