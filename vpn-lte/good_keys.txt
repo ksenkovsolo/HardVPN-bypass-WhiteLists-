@@ -1,7 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 3
+# Количество: 4
 vless://21c24d1c-d938-495a-b33f-957bc65d301f@170.168.25.39:443?security=reality&encryption=none&pbk=ZwMEL1FEHRGDKBNqSLnpHwSiEUPvY7vTk_cUIczPnEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=detectportal.firefox.com&sid=b21d9c9270653002#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=r0xnfzk9ud.newwl.pro&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&security=tls&sni=r0xnfzk9ud.newwl.pro&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@linen.gerqix.online:443?security=tls&serviceName=glush.de1.v1&sni=linen.gerqix.online&type=grpc&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@pebble.gerqix.online:443?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=glush.de2.v1&sni=pebble.gerqix.online&type=grpc&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
