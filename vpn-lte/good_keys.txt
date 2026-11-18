@@ -1,13 +1,14 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 13
+# Количество: 14
 trojan://reinz@104.26.6.171:443?sni=tsg3.pages.dev&type=ws&path=%2F%3Fed%3D2560&host=tsg3.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://12776e55-6230-48b9-b069-1bb8a04b4237@217.60.27.153:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=music.3apes.online&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.119:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=8a2e72t.nl11.h1clayd.click&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&sid=8d0d0679f42ffd98&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://48eb716d-6121-43c1-9dd2-9a2a25bf3178@172.67.208.118:443?security=tls&sni=ws137.mydosss.ccwu.cc&type=ws&host=ws137.mydosss.ccwu.cc&path=%2F3b575ddc8596&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?encryption=none&security=tls&sni=subgift.gcorecdn.com&alpn=http/1.1&type=ws&host=subgift.gcorecdn.com&path=/t.me-SubGift#%F0%9F%8C%90%20Unknown%20%7C%20TG%3A%20%40HardVpn_robot
-vless://7e0e7ca3-7aab-420e-9b40-c15a228ef33a@ws137.mydosss.ccwu.cc:443?type=ws&security=tls&path=%2F3b575ddc8596&sni=ws137.mydosss.ccwu.cc&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://719b9354-45e2-4718-8709-d965b64554db@leviko-us5739.shopingggg.ir:443?security=reality&encryption=none&pbk=zpXR6Y36C8qUCIVk2p_j8C9KGeBk5xisLw66j3WFOls&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9f1fc5a631ef3126#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@201.24.55.217:443?encryption=none&type=ws&security=tls&sni=reedbed.filnex.baby&fp=firefox&alpn=http/1.1&path=/api/de6/stream&host=reedbed.filnex.baby#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@5.129.243.162:443?alpn=http%2F1.1&headerType=none&host=reedbed.filnex.baby&path=%2Fapi%2Fde6%2Fstream&security=tls&sni=reedbed.filnex.baby&type=ws&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@clover.filnex.baby:443?security=tls&type=ws&sni=clover.filnex.baby&path=%2Fapi%2Fde6%2Fstream&host=clover.filnex.baby&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@linen.gerqix.online:443?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=glush.de1.v1&sni=fernglade.gerqix.online&type=grpc&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@pebble.gerqix.online:443?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=glush.de2.v1&sni=windlass.gerqix.online&type=grpc&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@pebble.gerqix.online:443?mode=gun&security=tls&serviceName=glush.de2.v1&sni=windlass.gerqix.online&type=grpc&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
