@@ -1,6 +1,9 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 2
+# Количество: 5
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@132.243.163.174:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&sid=8d0d0679f42ffd98&sni=8a2e72t.nl11.h1clayd.click#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@8a2e72t.nl20.h1clayd.shop:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&sid=8d0d0679f42ffd98&sni=8a2e72t.nl20.h1clayd.shop&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://bf14dc50-e9f2-49fd-8642-620446edeafb@185.237.219.224:8443?encryption=none&security=tls&sni=v5-4b5.pages.dev&fp=chrome&type=ws&host=v5-4b5.pages.dev&path=%2F#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://bf14dc50-e9f2-49fd-8642-620446edeafb@195.133.92.228:443?sni=v1-24z.pages.dev&type=ws&host=v1-24z.pages.dev&path=/fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B9%20Portugal%20%7C%20TG%3A%20%40HardVpn_robot
+vless://bf14dc50-e9f2-49fd-8642-620446edeafb@68.183.72.92:443?sni=v1-24z.pages.dev&type=ws&host=v1-24z.pages.dev&path=/fp=chrome&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
