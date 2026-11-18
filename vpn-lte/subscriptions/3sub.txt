@@ -2,6 +2,10 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 100
+vless://48eb716d-6121-43c1-9dd2-9a2a25bf3178@ws137.mydosss.ccwu.cc:443?fp=chrome&host=ws137.mydosss.ccwu.cc&path=%2F3b575ddc8596&security=tls&sni=ws137.mydosss.ccwu.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://48eb716d-6121-43c1-9dd2-9a2a25bf3178@ws137.mydosss.ccwu.cc:443?host=ws137.mydosss.ccwu.cc&path=%2F3b575ddc8596&security=tls&sni=ws137.mydosss.ccwu.cc&type=ws&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://48eb716d-6121-43c1-9dd2-9a2a25bf3178@ws137.mydosss.ccwu.cc:443?host=ws137.mydosss.ccwu.cc&path=%2F3b575ddc8596&security=tls&sni=ws137.mydosss.ccwu.cc&type=ws&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://48eb716d-6121-43c1-9dd2-9a2a25bf3178@ws137.mydosss.ccwu.cc:443?host=ws137.mydosss.ccwu.cc&path=%2F3b575ddc8596&security=tls&sni=ws137.mydosss.ccwu.cc&type=ws&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://48eb716d-6121-43c1-9dd2-9a2a25bf3178@ws137.mydosss.ccwu.cc:443?host=ws137.mydosss.ccwu.cc&path=%2F3b575ddc8596&security=tls&sni=ws137.mydosss.ccwu.cc&type=ws&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://49fe1f7b-e6f6-43dc-a67d-caade85128ba@netherlandddtun.whooisthebest.ir:3134?type=raw&security=reality&sni=aparat.com&fp=chrome&pbk=BECatGFyR4lUoLv4-w-qOzPPDkAQt_P8yGB4cP3nE0k&sid=e9b64ca7d55f2672#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%7C%20TG%3A%20%40HardVpn_robot
 vless://49fe1f7b-e6f6-43dc-a67d-caade85128ba@render.com:443?security=tls&type=xhttp&host=Org-ukrn-soeiwhdhshal-bssutudhdahuahese-beqhjdwter.maniyadg7shard.ir&mode=stream-one&sni=org-ukrn-soeiwhdhshal-bssutudhdahuahese-beqhjdwter.maniyadg7shard.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
@@ -98,7 +102,3 @@ vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@clover.filnex.baby:443?host=clover.
 vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@clover.filnex.baby:443?host=clover.filnex.baby&path=%2Fapi%2Fde6%2Fstream&security=tls&sni=clover.filnex.baby&type=ws&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@clover.filnex.baby:443?host=clover.filnex.baby&path=%2Fapi%2Fde6%2Fstream&security=tls&sni=clover.filnex.baby&type=ws&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@clover.filnex.baby:443?host=clover.filnex.baby&path=%2Fapi%2Fde6%2Fstream&security=tls&sni=clover.filnex.baby&type=ws&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@clover.filnex.baby:443?path=%2Fapi%2Fde6%2Fstream&security=tls&sni=clover.filnex.baby&type=ws&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@clover.filnex.baby:443?path=%2Fapi%2Fde6%2Fstream&security=tls&sni=clover.filnex.baby&type=ws&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@clover.filnex.baby:443?path=%2Fapi%2Fde6%2Fstream&security=tls&sni=clover.filnex.baby&type=ws&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@clover.filnex.baby:443?security=tls&type=ws&sni=clover.filnex.baby&path=%2Fapi%2Fde6%2Fstream#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
