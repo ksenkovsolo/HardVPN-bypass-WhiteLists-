@@ -1,7 +1,19 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 3
+# Количество: 15
+vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?headerType=none&host=vpn-rating.space&path=%2Fapi%2Fvless&security=tls&sni=vpn-rating.space&type=ws&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://3709d72f-6c35-0001-9763-ca5d6d8bf2fe@81.163.22.109:443?encryption=none&type=tcp&security=tls&sni=jissa-ru-wl-47sel.my-fade.cloud&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://3965a281-8d97-47b9-af7c-ac01f274b05c@176.126.122.236:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&security=reality&sni=eslfast.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es9.h1clayd.click:443?encryption=none&security=reality&sni=38917fx.es9.h1clayd.click&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d&spx=%2F&type=xhttp&mode=auto&path=%2F&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@b3cd32g.es9.h1clayd.click:443?encryption=none&security=reality&sni=b3cd32g.es9.h1clayd.click&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&sid=e7cffac9f8cfb434&spx=%2F&type=grpc&mode=gun&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://45b5fdbe-c799-0001-8c64-2ad6bf39bb18@185.151.243.186:443?security=tls&sni=piodr-ru-74sel.my-fade.cloud&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://45b5fdbe-c799-0001-8c64-2ad6bf39bb18@185.151.243.186:443?security=tls&sni=piodr-ru-74sel.my-fade.cloud&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?&security=reality&flow=xtls-rprx-vision&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&sid=7f1e29593aa94ad1&fp=chrome&sni=www.bing.com&type=tcp&headerType=none&path=%2F#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://6b70d4ce-4bea-0001-a343-b852a792e69b@81.163.22.109:443?encryption=none&fp=chrome&security=tls&sni=jissa-ru-wl-47sel.my-fade.cloud&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://6b70d4ce-4bea-0001-a343-b852a792e69b@81.163.22.109:443?security=tls&fp=chrome&sni=jissa-ru-wl-47sel.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://74af70c0-bea7-4412-9a1a-f7eab9c91ef8@488e167c4c27.vps.myjino.ru:443?encryption=none&type=xhttp&security=tls&sni=488e167c4c27.vps.myjino.ru&alpn=h2%2Chttp%2F1.1&host=488e167c4c27.vps.myjino.ru&path=%2F5a4d38a091f7202f6a0b6faa&mode=packet-up&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://943db1f8-1e68-0001-a58e-56a8a6a6a6fa@81.163.22.109:443?security=tls&fp=chrome&sni=jissa-ru-wl-47sel.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://a346c521-7a7f-452b-9356-a4893feb5982@178.130.46.188:443?encryption=none&flow=xtls-rprx-vision&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&sni=nl16-r.bankai.party&type=tcp&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://a346c521-7a7f-452b-9356-a4893feb5982@178.130.46.188:443?encryption=none&flow=xtls-rprx-vision&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&sni=nl16-r.bankai.party&type=tcp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://a346c521-7a7f-452b-9356-a4893feb5982@217.60.94.115:443?&security=reality&flow=xtls-rprx-vision&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&sni=de13-r.bankai.party&type=tcp&headerType=none&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
