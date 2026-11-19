@@ -1,7 +1,10 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 66
+# Количество: 69
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.222:443?encryption=none&fp=firefox&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&security=reality&sid=361d0dd59c70516f&sni=5d0319t.nl7.h1clayd.click&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.222:443?encryption=none&fp=firefox&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&security=reality&serviceName=5b79e8a94241&sid=50a749f0eccb628c&sni=15b171g.nl7.h1clayd.click&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.222:443?encryption=none&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&security=reality&sid=361d0dd59c70516f&sni=5d0319t.nl7.h1clayd.click&type=tcp&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.222:443?encryption=none&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&security=reality&sid=361d0dd59c70516f&sni=5d0319t.nl7.h1clayd.click&type=tcp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.222:443?encryption=none&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&security=reality&sid=361d0dd59c70516f&sni=5d0319t.nl7.h1clayd.click&type=tcp&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.222:443?encryption=none&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&security=reality&serviceName=5b79e8a94241&sid=50a749f0eccb628c&sni=15b171g.nl7.h1clayd.click&type=grpc&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
