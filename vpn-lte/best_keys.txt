@@ -1,5 +1,11 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 1
+# Количество: 7
 vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=146.19.254.171&type=tcp&headerType=none&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://38afdada-1991-466b-9dc4-3cd0ffac883d@185.86.145.183:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=cdn.quick-frost.ru&path=%2Fnl7ws&security=tls&sni=cdn.quick-frost.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://38afdada-1991-466b-9dc4-3cd0ffac883d@185.86.145.183:443?alpn=http%2F1.1&encryption=none&fp=edge&host=cdn.quick-frost.ru&path=%2Fnl7ws&security=tls&sni=cdn.quick-frost.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://38afdada-1991-466b-9dc4-3cd0ffac883d@185.86.145.183:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=cdn.quick-frost.ru&path=%2Fnl7ws&security=tls&sni=cdn.quick-frost.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://38afdada-1991-466b-9dc4-3cd0ffac883d@185.86.145.183:443?alpn=http%2F1.1&encryption=none&fp=ios&host=cdn.quick-frost.ru&path=%2Fnl7ws&security=tls&sni=cdn.quick-frost.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://38afdada-1991-466b-9dc4-3cd0ffac883d@185.86.145.183:443?alpn=http%2F1.1&encryption=none&fp=qq&host=cdn.quick-frost.ru&path=%2Fnl7ws&security=tls&sni=cdn.quick-frost.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&sid=684c7531e599dec0&encryption=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
