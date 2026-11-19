@@ -1,8 +1,5 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 4
-trojan://XnjwEJbEbqBt8bjlrKZPwg@8.6.112.0:443?security=tls&sni=cf.lunex-vpn.xyz&type=ws&host=cf.lunex-vpn.xyz&path=/Lunex&fp=chrome&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-vless://26843758-24de-4f76-b5d0-624038e353c4@71b840t.de7.h1clayd.click:443?security=reality&encryption=none&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24%2F&headerType=none&type=tcp&sni=71b840t.de7.h1clayd.click&sid=e572b6579ea525d4&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://26843758-24de-4f76-b5d0-624038e353c4@71b840t.de7.h1clayd.click:443?type=raw&security=reality&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@91.217.10.237:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=api-ns-mgr.galioncc.com&sid=868419504747f6de#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 1
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@b3cd32g.es9.h1clayd.click:443?encryption=none&security=reality&sni=b3cd32g.es9.h1clayd.click&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&sid=e7cffac9f8cfb434&spx=%2F&type=grpc&mode=gun&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
