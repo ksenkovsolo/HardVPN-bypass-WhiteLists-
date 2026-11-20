@@ -1,11 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 7
-vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=random&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&sid=150a627d15154cf2&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
-vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=150a627d15154cf2&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20TG%3A%20%40HardVpn_robot
-vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%20%7C%20TG%3A%20%40HardVpn_robot
-vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?encryption=none&fp=firefox&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&security=reality&sid=d8b58872&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 3
 vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?type=raw&security=reality&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&sni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%20%7C%20TG%3A%20%40HardVpn_robot
 vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%20%7C%20TG%3A%20%40HardVpn_robot
 vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?type=raw&security=reality&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&sni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%20%7C%20TG%3A%20%40HardVpn_robot
