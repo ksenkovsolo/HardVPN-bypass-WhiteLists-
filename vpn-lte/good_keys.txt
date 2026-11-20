@@ -1,7 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 3
-vless://038e6b17-84e9-4ace-8973-8ef2308ed6e1@177.202.69.48:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&security=reality&sid=6ad3c0f1e9b2478a&sni=yandex.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.222:443?encryption=none&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&security=reality&serviceName=5b79e8a94241&sid=50a749f0eccb628c&sni=15b171g.nl7.h1clayd.click&type=grpc&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.48:443?encryption=none&fp=firefox&path=/0616f2d729aa&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&security=reality&sid=7b2b1a14a6e0630d&sni=fc82dfx.nl8.h1clayd.click&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 4
+vless://6c870724-643c-0001-b7ea-04aabeedfb4e@176.108.244.162:443?security=tls&sni=ohyjf-ru-65sb.my-fade.cloud&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://943db1f8-1e68-0001-a58e-56a8a6a6a6fa@81.163.22.109:443?security=tls&fp=chrome&sni=jissa-ru-wl-47sel.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@132.243.163.167:443?encryption=none&fp=firefox&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&security=reality&serviceName=7d5abcd7d8a1&sid=6d289ff0f47c0aac&sni=961ec0g.nl17.h1clayd.click&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.74:443?encryption=none&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&security=reality&serviceName=7d5abcd7d8a1&sid=6d289ff0f47c0aac&sni=961ec0g.nl13.h1clayd.click&type=grpc&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
