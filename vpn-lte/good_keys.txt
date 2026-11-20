@@ -1,8 +1,9 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 4
+# Количество: 5
 vless://6c870724-643c-0001-b7ea-04aabeedfb4e@176.108.244.162:443?security=tls&sni=ohyjf-ru-65sb.my-fade.cloud&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://70756c73-0000-4000-8000-650000000000@199.181.197.99:443?&security=tls&fp=chrome&sni=parsa-panel-u48we.wotic15356.workers.dev&type=ws&headerType=none&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulsefp%3Dchrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://943db1f8-1e68-0001-a58e-56a8a6a6a6fa@81.163.22.109:443?security=tls&fp=chrome&sni=jissa-ru-wl-47sel.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@132.243.163.167:443?encryption=none&fp=firefox&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&security=reality&serviceName=7d5abcd7d8a1&sid=6d289ff0f47c0aac&sni=961ec0g.nl17.h1clayd.click&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.74:443?encryption=none&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&security=reality&serviceName=7d5abcd7d8a1&sid=6d289ff0f47c0aac&sni=961ec0g.nl13.h1clayd.click&type=grpc&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
