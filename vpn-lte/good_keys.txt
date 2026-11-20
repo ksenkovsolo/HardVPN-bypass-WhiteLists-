@@ -1,8 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 4
-vless://038e6b17-84e9-4ace-8973-8ef2308ed6e1@177.202.69.48:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&security=reality&sid=6ad3c0f1e9b2478a&sni=yandex.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20TG%3A%20%40HardVpn_robot
-vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?alpn=http&encryption=none&host=vpn-rating.space&path=%2Fapi%2Fvless&security=tls&sni=daily-author.ru&type=ws&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@217.69.174.175:443?encryption=none&fp=firefox&pbk=cO3wYHISTeorXcM8ffaDCDdqZ-olBQL-GyZqb-W7rTk&security=reality&serviceName=99f2107b03f8&sid=bd8f712209a9c283&sni=0592efg.us8.h1clayd.click&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
-vless://cf4d2594-77a8-0001-b99e-73ae8fb954eb@185.151.243.186:443?encryption=none&security=tls&sni=piodr-ru-74sel.my-fade.cloud&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 3
+trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.32:443?security=tls&sni=connect-se.mimowhat.online#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20TG%3A%20%40HardVpn_robot
+vless://12de3048-e455-11f1-9e1b-f328d1ed3475@45.112.192.165:8443?encryption=none&flow=xtls-rprx-vision&pbk=vCVpybJCiMGBpMlocJ4wKUllrZNAAth25itR4DQ7-UE&security=reality&sid=e1422a768cddb8c4&sni=cloudflare.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@news.zoom.us:8443?encryption=none&security=tls&sni=matrix.learnpodedu.com&fp=chrome&alpn=h2&vcn=matrix.learnpodedu.com&type=ws&host=matrix.learnpodedu.com&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
