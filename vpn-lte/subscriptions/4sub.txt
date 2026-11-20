@@ -2,6 +2,7 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 100
+vless://b945f9aa-1b45-4912-aa7e-248509472bad@46.28.69.123:443?flow=xtls-rprx-vision&fp=random&host=gateway.icloud.com&pbk=7KnJYp2-sE3o35mnbSZzX3fNg-ns9n8xyNfkRSHCD3E&security=reality&sid=238e23c5150f02e4&sni=gateway.icloud.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://b945f9aa-1b45-4912-aa7e-248509472bad@46.28.69.123:443?flow=xtls-rprx-vision&path=%2F&pbk=7KnJYp2-sE3o35mnbSZzX3fNg-ns9n8xyNfkRSHCD3E&security=reality&sid=238e23c5150f02e4&sni=gateway.icloud.com&type=tcp&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://b945f9aa-1b45-4912-aa7e-248509472bad@46.28.69.123:443?security=reality&type=raw&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=238e23c5150f02e4&pbk=7KnJYp2-sE3o35mnbSZzX3fNg-ns9n8xyNfkRSHCD3E#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://ba0dbd83-3569-46dc-bc3d-ef6e58ffc97b@153.56.229.218:443?encryption=none&fp=chrome&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&security=reality&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
@@ -101,4 +102,3 @@ vless://cfd6ce74-f4c5-4815-bba4-2fd0fa77bf4e@109.107.189.69:8443?encryption=none
 vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=raw#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%7C%20TG%3A%20%40HardVpn_robot
 vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=raw#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%7C%20TG%3A%20%40HardVpn_robot
 vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%7C%20TG%3A%20%40HardVpn_robot
-vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=raw#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%7C%20TG%3A%20%40HardVpn_robot
