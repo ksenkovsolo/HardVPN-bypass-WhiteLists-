@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 10
+# Количество: 11
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.159:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=resources.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?alpn=channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn&flow=xtls-rprx-vision&fp=firefox&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&security=reality&sid=0990d22f&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?security=reality&encryption=none&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision-udp443&sni=www.cloudflare.com&sid=0990d22f#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
@@ -12,3 +12,4 @@ vless://88e79aa6-f431-4453-8dcc-652a0c747198@leviko-de6156.shopingggg.ir:443?Tel
 vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=raw#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%7C%20TG%3A%20%40HardVpn_robot
 vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%7C%20TG%3A%20%40HardVpn_robot
 vless://e2f3ddd0-10f1-421f-b684-4c943986da65@45.86.61.133:443?security=reality&encryption=none&pbk=GwjzHvbNB5Wn6Jj7E3WSc5pc32bjeJCvv9yf0ibDnRs&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@156.229.167.109:8443?security=reality&sni=github.githubassets.com&fp=chrome&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA&sid=4ad2e4e660550e43#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
