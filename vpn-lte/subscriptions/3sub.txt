@@ -2,6 +2,8 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 100
+vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@inlet.gerqix.online:443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fde4%2Fstream&security=tls&sni=inlet.gerqix.online&type=ws&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@inlet.gerqix.online:443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fde4%2Fstream&security=tls&sni=inlet.gerqix.online&type=ws&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@inlet.gerqix.online:443?encryption=none&type=ws&security=tls&sni=inlet.gerqix.online&fp=firefox&alpn=http/1.1&path=/api/de4/stream#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@linen.filnex.baby:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=cinderbrook.elvano.website&type=ws&headerType=none&host=linen.filnex.baby&path=%2Fapi%2Fde2%2Fstream#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@linen.filnex.baby:443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fde2%2Fstream&security=tls&sni=cinderbrook.elvano.website&type=ws&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
@@ -100,5 +102,3 @@ vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.155:8443?type=xhttp&secu
 vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.83:8443?encryption=none&security=tls&type=xhttp&host=earlytrain.net&path=%2Fapi%2Fv1%2Fupload&sni=earlytrain.net&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.250.83:8443?mode=auto&path=/api/v1/upload&security=tls&encryption=none&insecure=0&host=earlytrain.net&fp=chrome&type=xhttp&allowInsecure=0&sni=earlytrain.net#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://39303679-4e68-4233-8def-8f4f9e48d611@103.201.130.126:443?&security=tls&fp=chrome&sni=tt-9nz.pages.dev&type=ws&headerType=none&host=tt-9nz.pages.dev&path=%2Fitem%2Ffavourites#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
-vless://3c778768-d511-4221-8be3-3eba45640e9e@51.161.204.242:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&fp=chrome&pbk=l0I4SmPtUDyjp1PAeSxBJ5qr9vubCOl9w3b-eDI4x24&sid=d432fe14bbdc17f6#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://3e1798b2-8b39-49e8-9f5f-f3235a16bd66@213.178.155.234:8443?alpn=http%2F1.1&encryption=none&fp=firefox&path=%2Fapi%2Fv4%2Fmedia%2Fsession&security=tls&sni=portal-edge.tcpshield.fun&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
