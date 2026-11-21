@@ -2,8 +2,6 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 100
-vless://943db1f8-1e68-0001-a58e-56a8a6a6a6fa@81.163.22.109:443?type=raw&security=tls&fp=chrome&sni=jissa-ru-wl-47sel.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://943db1f8-1e68-0001-a58e-56a8a6a6a6fa@81.163.22.109:443?type=raw&security=tls&fp=firefox&sni=jissa-ru-wl-47sel.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://962aa7b8-6e17-4dcf-a4a9-350131557ed1@95.85.230.2:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FhEDF-QWGT_PKoyERh4aAmsZLadZsTvpSQ5raDaEK30&security=reality&sid=8f5d073231be5216&sni=rbc.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://975fc322-6e38-434b-a53c-d39fed49b9a9@47.251.108.158:443?flow=xtls-rprx-vision&fp=random&host=www.cloudflare.com&pbk=SmgYcFIvvFXW3xh4gvGhIJuQsaZvWkAylcjB6TEddEs&security=reality&sid=896f52ba2cfca903&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://97be5ac0-dae3-43c1-aae8-3fcb7b130c59@render.com:443?security=tls&type=xhttp&host=Org-ukrn-soeiwhdhshal-bssutudhdahuahese-beqhjdwter.maniyadg7shard.ir&mode=stream-one&sni=Org-ukrn-soeiwhdhshal-bssutudhdahuahese-beqhjdwter.maniyadg7shard.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
@@ -102,3 +100,5 @@ vless://c26b5ab8-2f94-0001-8afe-8c02f2341ad0@188.225.82.103:443?type=tcp&securit
 vless://c2b17066-5386-0001-803b-5e652c0528f9@185.178.208.167:443?encryption=none&fp=android&host=api.14887277.xyz&path=%2Fsession&security=tls&sni=trx.tools&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://c2b17066-5386-0001-803b-5e652c0528f9@185.178.208.167:443?encryption=none&fp=qq&host=api.14887277.xyz&path=%2Fsession&security=tls&sni=trx.tools&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://c3a42a13-1a96-0001-b68c-6c2d7d2677ea@81.163.22.109:443?encryption=none&fp=chrome&security=tls&sni=jissa-ru-wl-47sel.my-fade.cloud&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://c3a42a13-1a96-0001-b68c-6c2d7d2677ea@81.163.22.109:443?encryption=none&fp=firefox&security=tls&sni=jissa-ru-wl-47sel.my-fade.cloud&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://c3a42a13-1a96-0001-b68c-6c2d7d2677ea@81.163.22.109:443?security=tls&fp=chrome&sni=jissa-ru-wl-47sel.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
