@@ -1,10 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 6
+# Количество: 4
 vless://7955bf18-35c4-412d-aabd-c0b36c793063@46.243.233.194:443?encryption=none&fp=firefox&host=pssdwynorv.newwl.pro&path=%2Fservice%2Ftelemetry%2F0294da469190%2F&security=tls&sni=pssdwynorv.newwl.pro&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://7955bf18-35c4-412d-aabd-c0b36c793063@91.185.83.43:443?encryption=none&path=%2Fservice%2Ftelemetry%2F0294da469190%2F&security=tls&sni=pssdwynorv.newwl.pro&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://a4740bee-81ad-4a58-99c9-eca576ecb6e6@188.225.78.178:443?encryption=none&fp=edge&mode=gun&security=tls&serviceName=cache.sync.v1&sni=cadrin.wtf&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://d3fa965e-74d2-4908-ae9b-f6e1fbc95845@170.168.100.54:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=kz.volgasystems.tech&type=tcp&fp=safari#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%7C%20TG%3A%20%40HardVpn_robot
 vless://e3f0c894-0f76-4683-a751-6a93da8fd14d@206.206.78.36:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=UOLfRKeEoVxkp-APTF2OlvFkKSoiR2mWzUuhSWxcVmQ&sid=133a3f10a1581047&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20TG%3A%20%40HardVpn_robot
 vless://e3f0c894-0f76-4683-a751-6a93da8fd14d@206.206.78.36:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=133a3f10a1581047&pbk=UOLfRKeEoVxkp-APTF2OlvFkKSoiR2mWzUuhSWxcVmQ#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20TG%3A%20%40HardVpn_robot
