@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 98
+# Количество: 99
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&fp=chrome&spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://17f3c566-b6c3-42f4-a098-b2f5374339a8@185.210.155.38:443?mode=packet-up&path=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&security=reality&encryption=none&pbk=gF44pErBRsCwFGY398I654T5EBhcB6sryObLgcqxTSI&fp=chrome&type=xhttp&sni=cira.ca&sid=41b779#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20TG%3A%20%40HardVpn_robot
 vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@leviko-nl4118.shopingggg.ir:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=146.19.254.171#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
@@ -100,3 +100,4 @@ vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@194.76.168.133:443?path=%2Frealtime
 vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@194.76.168.133:443?path=/realtime/client/connect&security=tls&encryption=none&insecure=0&host=nemicro487.gangtype.com&fp=chrome&type=ws&allowInsecure=0&sni=nemicro487.gangtype.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@194.76.168.133:443?security=tls&sni=nemicro487.gangtype.com&alpn=http%2F1.1&fp=qq&type=ws&host=nemicro487.gangtype.com&path=%2Frealtime%2Fclient%2Fconnect#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@194.76.168.133:443?security=tls&sni=nemicro487.gangtype.com&alpn=http/1.1&fp=chrome&type=ws&host=nemicro487.gangtype.com&path=/realtime/client/connect#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@195.209.217.111:443?encryption=none&flow=xtls-rprx-vision&pbk=cwP4lx0DIWttNWp4IeLj2S-e1Yo2tnBedJ5RiMLtT0E&security=reality&sid=7e49fe98f9487e19&sni=ruhsds737.gangtype.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot

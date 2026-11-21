@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 128
+# Количество: 129
 trojan://HAB6WFjL2pKev0cN3ML1hz6V4pj1_S00@170.168.5.123:8228?alpn=h2&security=tls&serviceName=trgrpc&sni=nl100.marshonet.store&type=grpc&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://HAB6WFjL2pKev0cN3ML1hz6V4pj1_S00@170.168.5.123:8228?alpn=h2&security=tls&serviceName=trgrpc&sni=nl100.marshonet.store&type=grpc&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://HAB6WFjL2pKev0cN3ML1hz6V4pj1_S00@170.168.5.123:8228?alpn=h2&security=tls&serviceName=trgrpc&sni=nl100.marshonet.store&type=grpc&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
@@ -130,3 +130,4 @@ vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@194.76.168.133:443?path=%2Frealtime
 vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@194.76.168.133:443?path=/realtime/client/connect&security=tls&encryption=none&insecure=0&host=nemicro487.gangtype.com&fp=chrome&type=ws&allowInsecure=0&sni=nemicro487.gangtype.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@194.76.168.133:443?security=tls&sni=nemicro487.gangtype.com&alpn=http%2F1.1&fp=qq&type=ws&host=nemicro487.gangtype.com&path=%2Frealtime%2Fclient%2Fconnect#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@194.76.168.133:443?security=tls&sni=nemicro487.gangtype.com&alpn=http/1.1&fp=chrome&type=ws&host=nemicro487.gangtype.com&path=/realtime/client/connect#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@195.209.217.111:443?encryption=none&flow=xtls-rprx-vision&pbk=cwP4lx0DIWttNWp4IeLj2S-e1Yo2tnBedJ5RiMLtT0E&security=reality&sid=7e49fe98f9487e19&sni=ruhsds737.gangtype.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
