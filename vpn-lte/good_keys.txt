@@ -1,8 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 7
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@194.87.131.9:443?encryption=none&fp=firefox&host=driftwood.elvano.website&path=/api/de2/sync&security=tls&sni=sunstone.elvano.website&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 6
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@almanac.filnex.baby:443?security=tls&serviceName=glush.de1.v1&sni=morningfen.merlano.monster&type=grpc&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@almanac.filnex.baby:443?security=tls&serviceName=glush.de1.v1&sni=morningfen.merlano.monster&type=grpc&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@driftwood.elvano.website:443?encryption=none&security=tls&sni=sunstone.elvano.website&fp=edge&type=xhttp&path=/api/de2/sync&host=driftwood.elvano.website&mode=auto#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
