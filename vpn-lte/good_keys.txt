@@ -1,7 +1,10 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 4
+# Количество: 7
+vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@inlet.gerqix.online:443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fde4%2Fstream&security=tls&sni=inlet.gerqix.online&type=ws&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://3abdf446-f8dd-43d5-b662-f0bb4a7f5978@82.196.9.49:443?encryption=none&host=heroec.shop&path=%2Fcontent&security=tls&sni=heroec.shop&type=ws&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@leviko-de6156.shopingggg.ir:443?path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&encryption=none&host=o685y.save-node.com&fp=chrome&type=ws&sni=o685y.save-node.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://bc93a03d-13b5-0004-8ee7-d50c11459dab@109.106.15.99:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=key-master-saver.com&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://bc93a03d-13b5-0006-8ee7-d50c11459dab@89.18.60.230:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=diffoscope.com&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.222:443?encryption=none&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&security=reality&serviceName=5b79e8a94241&sid=50a749f0eccb628c&sni=15b171g.nl7.h1clayd.click&type=grpc&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
