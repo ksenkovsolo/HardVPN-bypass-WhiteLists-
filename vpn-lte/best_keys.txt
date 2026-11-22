@@ -1,14 +1,13 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 28
+# Количество: 21
 trojan://UyJoqPqycR@37.233.80.144:2053?security=tls&sni=37.233.80.144&alpn=h2&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://UyJoqPqycR@37.233.80.144:2053?security=tls&sni=37.233.80.144&alpn=h2&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://UyJoqPqycR@37.233.80.144:2053?security=tls&sni=37.233.80.144&alpn=h2&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://UyJoqPqycR@37.233.80.144:2095?security=tls&sni=37.233.80.144&alpn=h2&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://UyJoqPqycR@37.233.80.144:2095?security=tls&sni=37.233.80.144&alpn=h2&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://UyJoqPqycR@37.233.80.144:2095?security=tls&sni=37.233.80.144&alpn=h2&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://020f7f86-a559-4366-8d2d-c6f81d6bbe5f@194.135.34.118:8443?path=/api/v4/media/session&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=web.hosttcp.fun#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?security=tls&type=grpc&sni=elmharbor.gerqix.online&alpn=h2&serviceName=glush.de7.v1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@clearing.moltex.click:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=clearing.moltex.click&mode=auto&path=%2Fapi%2Fde5%2Fsync&security=tls&sni=clearing.moltex.click&type=xhttp&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@honeycomb.merlano.monster:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de7.v1&sni=honeycomb.merlano.monster&type=grpc&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
@@ -24,9 +23,3 @@ vless://407d047a-d9b4-41f3-8a02-ebc53854efca@188.116.27.6:443?encryption=none&fl
 vless://a4740bee-81ad-4a58-99c9-eca576ecb6e6@188.225.78.178:443?alpn=h2&encryption=none&fp=ios&mode=gun&security=tls&serviceName=cache.sync.v1&sni=cadrin.wtf&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://cfd6ce74-f4c5-4815-bba4-2fd0fa77bf4e@109.107.189.69:8443?security=reality&type=tcp&sni=gw-721bd5.dobry.monster&host=gw-721bd5.dobry.monster&flow=xtls-rprx-vision&pbk=q1EhO97gyUBlF7LiAfeAESI0O2Mg95T4yIk7keOnMEE&sid=0912cc7f28aa26ba&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@156.229.167.109:8443?security=reality&encryption=none&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=github.githubassets.com&sid=4ad2e4e660550e43#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-vless://f656c4b9-54dc-44cc-a142-e242ce687e56@78.159.250.83:443?security=tls&encryption=none&insecure=0&host=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&headerType=none&fp=chrome&spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=dualarrow.net#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://faa4f375-a18e-0001-9f1b-d5d583cfd9cf@185.178.208.167:443?encryption=none&host=api.14887277.xyz&path=%2Fsession&security=tls&sni=api.14887277.xyz&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://faa4f375-a18e-0001-9f1b-d5d583cfd9cf@185.178.208.167:443?security=tls&sni=api.14887277.xyz&type=ws&host=api.14887277.xyz&path=%2Fsession&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://faa4f375-a18e-0001-9f1b-d5d583cfd9cf@185.178.208.167:443?security=tls&sni=api.14887277.xyz&type=ws&host=api.14887277.xyz&path=%2Fsession&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://faa4f375-a18e-0001-9f1b-d5d583cfd9cf@185.178.208.167:443?security=tls&sni=api.14887277.xyz&type=ws&host=api.14887277.xyz&path=%2Fsession&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://faa4f375-a18e-0001-9f1b-d5d583cfd9cf@185.178.208.167:443?security=tls&sni=api.14887277.xyz&type=ws&host=api.14887277.xyz&path=%2Fsession&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
