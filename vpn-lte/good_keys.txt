@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 15
+# Количество: 17
 vless://12de3048-e455-11f1-9e1b-f328d1ed3475@nl3.vpnjantit.com:8443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=vCVpybJCiMGBpMlocJ4wKUllrZNAAth25itR4DQ7-UE&sid=e1422a768cddb8c4&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://26843758-24de-4f76-b5d0-624038e353c4@153.56.229.218:443?encryption=none&fp=chrome&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&security=reality&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://26843758-24de-4f76-b5d0-624038e353c4@195.206.235.72:443?security=reality&sni=71b840t.de7.h1clayd.click&type=tcp&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
@@ -15,5 +15,7 @@ vless://3b9189fd-9d29-465e-8c1f-5651af043fe4@188.116.27.6:443?encryption=none&fl
 vless://3b9189fd-9d29-465e-8c1f-5651af043fe4@188.116.27.6:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.sony.co.uk&fp=chrome&flow=xtls-rprx-vision&sid=1174&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.microsoft.com&fp=chrome&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&sid=684c7531e599dec0#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
 vless://67766b72-87da-493d-bece-f4542f7e5df1@188.114.98.0:443?encryption=none&security=tls&type=ws&path=%2Fsg-hzr&host=support.zoom.us.wez7k.eu.cc&sni=support.zoom.us.wez7k.eu.cc&fp=unsafe&alpn=http%2F1.1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://9a597d68-6688-4046-bf24-a5a541e115e0@135.136.33.134:8443?headerType=none&security=reality&fp=chrome&encryption=none&flow=xtls-rprx-vision&type=tcp&sni=www.apple.com&sid=f8d0271b4b5f9efc&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU#%F0%9F%87%A9%F0%9F%87%B0%20Denmark%20%7C%20TG%3A%20%40HardVpn_robot
 vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@194.76.168.133:443?path=/realtime/client/connect&security=tls&encryption=none&insecure=0&host=nemicro487.gangtype.com&fp=chrome&type=ws&allowInsecure=0&sni=nemicro487.gangtype.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@194.76.168.133:443?security=tls&sni=nemicro487.gangtype.com&alpn=http%2F1.1&fp=qq&type=ws&host=nemicro487.gangtype.com&path=%2Frealtime%2Fclient%2Fconnect#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://f14f0e7d-bcb0-416b-855a-17344b0242b9@vless.gem-audio2.us.ci:443?path=%2F&security=tls&sni=vless.gem-audio2.us.ci&type=ws&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
