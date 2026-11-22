@@ -1,7 +1,9 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 65
+# Количество: 67
+vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%7C%20TG%3A%20%40HardVpn_robot
+vless://d508df52-3acb-483f-85d2-3fd5f6a76808@jpg1api.jumpernode.site:443?&security=reality&flow=xtls-rprx-vision&pbk=dtNeCNIcRgs8_EKIJg_oTJEsiA8KBU-QaE1yVpkoX0I&sid=2c92d6&fp=chrome&sni=buybox.amazon.com&type=tcp&headerType=none&host=buybox.amazon.com&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
 vless://d508df52-3acb-483f-85d2-3fd5f6a76808@jpg1api.jumpernode.site:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=buybox.amazon.com&fp=chrome&pbk=dtNeCNIcRgs8_EKIJg_oTJEsiA8KBU-QaE1yVpkoX0I&sid=2c92d6#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
