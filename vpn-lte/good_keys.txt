@@ -1,9 +1,13 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 22
+# Количество: 26
+trojan://UyJoqPqycR@37.233.80.144:2083?security=tls&sni=37.233.80.144&alpn=h2&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+trojan://UyJoqPqycR@37.233.80.144:2087?security=tls&sni=37.233.80.144&alpn=h2&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+trojan://UyJoqPqycR@37.233.80.144:2087?security=tls&sni=37.233.80.144&alpn=h2&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@brookside.moltex.click:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=brookside.moltex.click&mode=auto&path=%2Fapi%2Fde7%2Fsync&security=tls&sni=brookside.moltex.click&type=xhttp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?security=reality&encryption=none&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://407d047a-d9b4-41f3-8a02-ebc53854efca@188.116.27.6:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.sony.co.uk&fp=chrome&flow=xtls-rprx-vision&sid=1174&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://441caaf2-aae6-4883-8af9-1e5770395ae8@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&security=reality&sid=1174&sni=www.sony.co.uk&spx=%2FuUr56K29YvRQ5rt&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://441caaf2-aae6-4883-8af9-1e5770395ae8@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&sni=www.sony.co.uk&sid=1174#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
