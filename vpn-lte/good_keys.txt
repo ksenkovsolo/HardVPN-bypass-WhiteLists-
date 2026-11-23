@@ -1,10 +1,12 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 14
+# Количество: 16
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.159:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=resources.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de7.v1&sni=elmharbor.gerqix.online&type=grpc&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?type=grpc&security=tls&fp=firefox&sni=elmharbor.gerqix.online&serviceName=glush.de7.v1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?path=api%2Fv1%2Fupload&security=tls&encryption=none&insecure=0&host=wholebeam.com&type=xhttp&allowInsecure=0&sni=wholebeam.com&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://39303679-4e68-4233-8def-8f4f9e48d611@103.201.130.126:443?sni=tt-9nz.pages.dev&type=ws&host=tt-9nz.pages.dev&path=/item/favouritesfp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
 vless://407d047a-d9b4-41f3-8a02-ebc53854efca@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&security=reality&sid=1174&sni=www.sony.co.uk&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://407d047a-d9b4-41f3-8a02-ebc53854efca@188.116.27.6:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.sony.co.uk&fp=chrome&flow=xtls-rprx-vision&sid=1174&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://441caaf2-aae6-4883-8af9-1e5770395ae8@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&security=reality&sid=1174&sni=www.sony.co.uk&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot

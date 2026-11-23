@@ -1,7 +1,10 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 49
+# Количество: 52
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?type=raw&security=reality&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&sni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%20%7C%20TG%3A%20%40HardVpn_robot
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%20%7C%20TG%3A%20%40HardVpn_robot
+vless://d92038b6-b470-4267-9c69-2c649bf3f4a4@195.206.235.55:443?security=reality&sni=8ba6c3t.nl2.h1clayd.click&fp=firefox&pbk=43bHrvqzL5Sw8lvtDSE3LAlp_0WbixVc7nYcAf17bhg&sid=16b6715de8577aaa#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://d92038b6-b470-4267-9c69-2c649bf3f4a4@8ba6c3t.nl2.h1clayd.click:443?type=tcp&security=reality&sni=8ba6c3t.nl2.h1clayd.click&fp=firefox&pbk=43bHrvqzL5Sw8lvtDSE3LAlp_0WbixVc7nYcAf17bhg&sid=16b6715de8577aaa&spx=%2F&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&security=reality&sid=cd6065902eea7a02&sni=www.cloudflare.com&type=raw#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20TG%3A%20%40HardVpn_robot
 vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&fp=random&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&sid=cd6065902eea7a02#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20TG%3A%20%40HardVpn_robot
