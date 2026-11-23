@@ -1,12 +1,17 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 9
+# Количество: 14
 trojan://UyJoqPqycR@5.53.124.50:8443?security=tls&sni=5.53.124.50&alpn=h2&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://08ef7604-b3a5-0001-b264-0038fa7c44fc@188.68.216.33:443?&security=tls&fp=chrome&sni=pmdhivnevikmltdhqp.fcloudservices.site&type=tcp&headerType=none&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@72.56.238.135:443?&security=tls&fp=chrome&sni=parchment.merlano.monster&type=ws&headerType=none&host=parchment.merlano.monster&path=%2Fapi%2Fde7%2Fstream#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?security=tls&serviceName=glush.de7.v1&sni=elmharbor.gerqix.online&type=grpc&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?security=tls&serviceName=glush.de7.v1&sni=elmharbor.gerqix.online&type=grpc&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@birchbark.gerqix.online:443?security=tls&serviceName=glush.de7.v1&sni=birchbark.gerqix.online&type=grpc&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://441caaf2-aae6-4883-8af9-1e5770395ae8@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&security=reality&sid=1174&sni=www.sony.co.uk&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cabinet.filnex.baby:443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fde7%2Fstream&security=tls&sni=claywick.elvano.website&type=ws&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cedar.filnex.baby:443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fde7%2Fstream&security=tls&sni=fieldstone.moltex.click&type=ws&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cedar.filnex.baby:443?alpn=http/1.1&encryption=none&path=/api/de7/stream&security=tls&sni=fieldstone.moltex.click&type=ws&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cedar.filnex.baby:443?security=tls&type=ws&sni=fieldstone.moltex.click&path=%2Fapi%2Fde7%2Fstream&host=fieldstone.moltex.click&alpn=http%2F1.1&allowInsecure=0&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@83.217.201.82:443?flow=xtls-rprx-vision&security=reality&sni=skvoz-dpi.com&fp=firefox&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://ebdfaf99-41d8-4e48-8196-d54510ffb556@45.129.242.56:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YURKlEQ3rap4KOXXGsVFZyYev2oDU2gCEbNTXPdKWRY&security=reality&sid=abcdef&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://f139c8e2-d5f6-0001-bf9e-1601f0c40a6f@188.68.216.33:443?security=tls&fp=chrome&sni=pmdhivnevikmltdhqp.fcloudservices.site#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
