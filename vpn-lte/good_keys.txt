@@ -1,12 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 8
+# Количество: 2
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@garden.elvano.website:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=garden.elvano.website&mode=auto&path=%2Fapi%2Fde3%2Fsync&security=tls&sni=garden.elvano.website&type=xhttp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@honeycomb.merlano.monster:443?type=grpc&security=tls&fp=firefox&sni=honeycomb.merlano.monster&serviceName=glush.de7.v1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://7f060f51-4465-4d1a-b7d2-bc878cc58763@37.32.42.125:26061?encryption=mlkem768x25519plus.native.0rtt.aCyHWhYKQdyMXWHiCt0n0xJefdTk77V4-fqxhJzZg1c&fp=firefox&host=channel.varna-rp.ir&path=/Deliverycactus&pbk=b0Lktn3zKpk-9K8iDBxeCXo6dI9e7-EuMeZCmG90NRQ&security=reality&sid=587512fcde507a56&sni=aparat.com&type=xhttp#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%7C%20TG%3A%20%40HardVpn_robot
-vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@lagoon.gerqix.online:443?encryption=none&type=ws&security=tls&sni=lagoon.gerqix.online&fp=firefox&alpn=http/1.1&path=/api/de5/stream#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://ab4b7e9c-6df5-4da0-ac56-1d45f9faa864@194.226.98.175:24645?type=grpc&security=tls&sni=v2.hipnl.globalinetforallalwaysandneverbanyoubelieveme.com&mode=gun&serviceName=v2-hipnl-globalinetforallalwaysandneverbanyoubelieveme-com&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://ab4b7e9c-6df5-4da0-ac56-1d45f9faa864@194.226.98.175:24645?type=grpc&security=tls&sni=v2.hipnl.globalinetforallalwaysandneverbanyoubelieveme.com&mode=gun&serviceName=v2-hipnl-globalinetforallalwaysandneverbanyoubelieveme-com&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://b7791707-83d9-444b-9d05-f5c99e90acd4@194.85.249.29:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GqhAFTkRQ1HkNXyF2dUl3wUzJDHfgx3O9qocK01SLWU&security=reality&sid=38e0c84b27d01e0d&sni=n1.sklserv.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@77.221.157.45:443?encryption=none&fp=firefox&host=80cb66x.nl13.h1clayd.click&path=/d610f026b146&pbk=jhVdP7NFUaEXGfrmOqJlMCHTvqn3fymbzPfPT6NO4i0&security=reality&sid=f72d4a2c7cbbacb1&sni=80cb66x.nl13.h1clayd.click&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
