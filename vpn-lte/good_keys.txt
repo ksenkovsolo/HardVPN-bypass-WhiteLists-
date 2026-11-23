@@ -1,5 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 1
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@rowanberry.moltex.click:443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fde7%2Fstream&security=tls&sni=rowanberry.moltex.click&type=ws&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 3
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@birchbark.gerqix.online:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de7.v1&sni=birchbark.gerqix.online&type=grpc&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=mosaic.topp-con.xyz&type=tcp&headerType=none&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@194.76.168.133:443?path=%2Frealtime%2Fclient%2Fconnect&security=tls&encryption=none&insecure=0&host=nemicro487.gangtype.com&fp=ios&type=ws&allowInsecure=0&sni=nemicro487.gangtype.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
