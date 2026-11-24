@@ -1,13 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 9
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@81.200.158.26:443?encryption=none&insecure=0&mode=gun&security=tls&serviceName=glush.de1.v1&sni=fernglade.gerqix.online&type=grpc&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@72.56.38.83:443?encryption=none&flow=xtls-rprx-vision&pbk=ZzIetLcQtENjIXQ9XZqFo8p3J81p8Emj0wi51Uy07n8&security=reality&sni=absolute-disaster.org&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+# Количество: 3
 vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@92.246.138.161:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jFqwGpIrZSPqlvF4XglDWhsuHxljBLeiaMtESLsZsVk&security=reality&sni=q88k7v7gi0pg.img-assets.world&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@188.114.98.0:443?host=freeceshi6.frii.site&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net&security=tls&sni=freeceshi6.frii.site&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@188.114.98.0:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=freeceshi6.frii.site&fp=unsafe&type=ws&allowInsecure=0&sni=freeceshi6.frii.site#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?encryption=none&flow=xtls-rprx-vision&headerType=none&path=%2F&security=tls&sni=mosaic.topp-con.xyz&type=tcp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?security=tls&type=tcp&sni=mosaic.topp-con.xyz&flow=xtls-rprx-vision-udp443&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@sandstone.gerqix.online:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de6.v1&sni=sandstone.gerqix.online&type=grpc&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?fp=random&path=%2Fwsru&security=tls&sni=xsru2.freeddns.org&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@cobblestone.merlano.monster:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de5.v1&sni=cobblestone.merlano.monster&type=grpc&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?encryption=none&security=tls&type=grpc&serviceName=grpc-ru&mode=gun&sni=xssite.webredirect.org&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
