@@ -1,7 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 23
+# Количество: 24
+vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&allowInsecure=0&insecure=0&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@velvet.merlano.monster:443?encryption=none&type=ws&security=tls&sni=velvet.merlano.monster&fp=firefox&alpn=http/1.1&path=/api/de6/stream#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://b7791707-83d9-444b-9d05-f5c99e90acd4@n1.sklserv.com:443?security=reality&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22length%22%3A%2210-20%22%2C%22packets%22%3A%22tlshello%22%2C%22interval%22%3A%2210-20%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&pbk=GqhAFTkRQ1HkNXyF2dUl3wUzJDHfgx3O9qocK01SLWU&fp=firefox&flow=xtls-rprx-vision&sni=n1.sklserv.com&sid=38e0c84b27d01e0d#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@13.143.232.161:443?encryption=none&fp=&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&security=reality&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl13.h1clayd.click&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
