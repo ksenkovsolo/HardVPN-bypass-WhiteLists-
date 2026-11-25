@@ -2,6 +2,7 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 100
+vless://7aa77858-f235-0005-9434-7ab060848b17@92.63.189.39:8443?flow=xtls-rprx-vision&security=tls&sni=avelon.onl#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://7aa77858-f235-44d6-9434-7ab060848b17@92.63.189.39:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=avelon.onl&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://7aa77858-f235-44d6-9434-7ab060848b17@92.63.189.39:8443?flow=xtls-rprx-vision&security=tls&sni=avelon.onl#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=mosaic.topp-con.xyz&type=tcp&headerType=none&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
@@ -101,4 +102,3 @@ vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@sienna.merlano.monster:443?&securit
 vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@sienna.merlano.monster:443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fde4%2Fstream&security=tls&sni=sienna.merlano.monster&type=ws&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@sienna.merlano.monster:443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fde4%2Fstream&security=tls&sni=sienna.merlano.monster&type=ws&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@sienna.merlano.monster:443?alpn=http/1.1&encryption=none&path=/api/de4/stream&security=tls&sni=sienna.merlano.monster&type=ws&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@sienna.merlano.monster:443?encryption=none&type=ws&security=tls&sni=sienna.merlano.monster&fp=firefox&alpn=http/1.1&path=/api/de4/stream#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot

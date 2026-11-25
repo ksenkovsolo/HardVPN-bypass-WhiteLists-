@@ -2,6 +2,7 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 100
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?mode=gun&security=tls&serviceName=grpc-ru&sni=xssite.webredirect.org&type=grpc&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?mode=gun&security=tls&serviceName=grpc-ru&sni=xssite.webredirect.org&type=grpc&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://c9b4fb55-1634-436f-beb7-3b1db5b0131d@ev.zoom.us:8443?&security=tls&fp=chrome&sni=free-server.techsonic.dev&type=ws&headerType=none&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?&security=reality&flow=xtls-rprx-vision&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&sid=f98843107912e782&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%7C%20TG%3A%20%40HardVpn_robot
@@ -101,4 +102,3 @@ vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?encryption=none
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?encryption=none&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&security=reality&serviceName=5b79e8a94241&sid=50a749f0eccb628c&sni=15b171g.nl7.h1clayd.click&type=grpc&fp=ios#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20%7C%20TG%3A%20%40HardVpn_robot
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?encryption=none&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&security=reality&serviceName=5b79e8a94241&sid=50a749f0eccb628c&sni=15b171g.nl7.h1clayd.click&type=grpc&fp=safari#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20%7C%20TG%3A%20%40HardVpn_robot
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?security=reality&type=xhttp&path=%2Fd20896a4ce30&host=e60833x.nl7.h1clayd.click&packetEncoding=xudp&sni=e60833x.nl7.h1clayd.click&fp=chrome&sid=2d2598d60447a967&pbk=jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q&mode=auto&encryption=none#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20%7C%20TG%3A%20%40HardVpn_robot
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?type=raw&security=reality&fp=firefox&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f&sni=5d0319t.nl7.h1clayd.click&encryption=none#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20%7C%20TG%3A%20%40HardVpn_robot

@@ -2,6 +2,7 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 100
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@31.57.28.169:443?security=tls&fp=chrome&alpn=http/1.1&sni=inlay.merlano.monster&type=ws&headerType=none&host=inlay.merlano.monster&path=/api/de3/stream#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@45.142.140.132:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=inlay.merlano.monster&type=ws&headerType=none&host=inlay.merlano.monster&path=%2Fapi%2Fde3%2Fstream#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@5.129.253.99:443?alpn=h2%2Chttp%2F1.1&encryption=none&security=tls&serviceName=glush.de3.v1&sni=rookery.moltex.click&type=grpc&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@5.129.253.99:443?alpn=h2%2Chttp%2F1.1&encryption=none&security=tls&serviceName=glush.de3.v1&sni=rookery.moltex.click&type=grpc&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
@@ -101,4 +102,3 @@ vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@vellum.filnex.baby:443?security=tls
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@vellum.filnex.baby:443?security=tls&serviceName=glush.de3.v1&sni=rookery.moltex.click&type=grpc&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@vellum.filnex.baby:443?type=grpc&security=tls&fp=firefox&sni=rookery.moltex.click&serviceName=glush.de3.v1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@wildflower.elvano.website:443?encryption=none&type=xhttp&security=tls&sni=wildflower.elvano.website&fp=chrome&alpn=h2,http/1.1&path=/api/de5/sync&host=wildflower.elvano.website&mode=auto#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@windflower.elvano.website:443?alpn=h2&encryption=none&host=paperbirch.merlano.monster&mode=packet-up&path=%2Fapi%2Fde3%2Fpreview%2F&security=tls&sni=paperbirch.merlano.monster&type=xhttp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot

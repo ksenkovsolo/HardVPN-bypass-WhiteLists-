@@ -2,6 +2,7 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 100
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@windflower.elvano.website:443?alpn=h2&encryption=none&host=paperbirch.merlano.monster&mode=packet-up&path=%2Fapi%2Fde3%2Fpreview%2F&security=tls&sni=paperbirch.merlano.monster&type=xhttp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@windflower.elvano.website:443?alpn=h2&encryption=none&host=paperbirch.merlano.monster&mode=packet-up&path=%2Fapi%2Fde3%2Fpreview%2F&security=tls&sni=paperbirch.merlano.monster&type=xhttp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@windflower.elvano.website:443?alpn=h2&encryption=none&host=paperbirch.merlano.monster&mode=packet-up&path=/api/de3/preview/&security=tls&sni=paperbirch.merlano.monster&type=xhttp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@ws3.falmero.store:443?encryption=none&host=paperbirch.merlano.monster&path=%2Fapi%2Fde1%2Fstream&security=tls&sni=paperbirch.merlano.monster&type=ws&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
@@ -101,4 +102,3 @@ vless://7aa77858-f235-0001-9434-7ab060848b17@188.130.139.194:8443?&security=tls&
 vless://7aa77858-f235-0003-9434-7ab060848b17@92.63.189.39:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=avelon.onl&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://7aa77858-f235-0003-9434-7ab060848b17@92.63.189.39:8443?flow=xtls-rprx-vision&security=tls&sni=avelon.onl#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://7aa77858-f235-0005-9434-7ab060848b17@92.63.189.39:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=avelon.onl&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://7aa77858-f235-0005-9434-7ab060848b17@92.63.189.39:8443?flow=xtls-rprx-vision&security=tls&sni=avelon.onl#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
