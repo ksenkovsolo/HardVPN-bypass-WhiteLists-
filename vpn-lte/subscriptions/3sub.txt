@@ -2,8 +2,8 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 100
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@ws3.falmero.store:443?encryption=none&host=paperbirch.merlano.monster&path=%2Fapi%2Fde1%2Fstream&security=tls&sni=paperbirch.merlano.monster&type=ws&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@ws3.falmero.store:443?encryption=none&type=ws&security=tls&sni=paperbirch.merlano.monster&fp=firefox&alpn=http/1.1&path=/api/de1/stream#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@ws3.falmero.store:443?encryption=none&type=ws&security=tls&sni=paperbirch.merlano.monster&fp=firefox&alpn=http/1.1&path=/api/de3/stream#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@ws3.falmero.store:443?encryption=none&type=ws&security=tls&sni=paperbirch.merlano.monster&path=%2Fapi%2Fde1%2Fstream&host=paperbirch.merlano.monster&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@ws3.falmero.store:443?encryption=none&type=ws&security=tls&sni=paperbirch.merlano.monster&path=%2Fapi%2Fde1%2Fstream&host=paperbirch.merlano.monster&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@ws3.falmero.store:443?encryption=none&type=ws&security=tls&sni=paperbirch.merlano.monster&path=%2Fapi%2Fde1%2Fstream&host=paperbirch.merlano.monster&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
