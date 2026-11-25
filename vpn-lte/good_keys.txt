@@ -1,11 +1,13 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 10
+# Количество: 12
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@heatherfield.moltex.click:443?alpn=h2,http/1.1&encryption=none&host=heatherfield.moltex.click&mode=auto&path=/api/de6/sync&security=tls&sni=heatherfield.moltex.click&type=xhttp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@vellum.filnex.baby:443?encryption=none&type=grpc&security=tls&sni=rookery.moltex.click&alpn=h2&serviceName=glush.de3.v1&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@ws3.falmero.store:443?encryption=none&host=paperbirch.merlano.monster&path=%2Fapi%2Fde1%2Fstream&security=tls&sni=paperbirch.merlano.monster&type=ws&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@ws3.falmero.store:443?security=tls&fp=chrome&sni=paperbirch.merlano.monster&type=ws&headerType=none&host=paperbirch.merlano.monster&path=/api/de1/stream#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@193.124.56.100:443?&security=tls&fp=chrome&sni=accessfooter.cleanfoodshop.org&type=ws&headerType=none&host=accessfooter.cleanfoodshop.org&path=/media/ws/#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@82.22.2.137:443?encryption=none&extra={"noGRPCHeader":false,"xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":30,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConnections":"1-2"}}&fp=&mode=auto&path=/api/v2/7d94497a&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&security=reality&sid=0bf13fb706784403&sni=fr2.green-tg.com&type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TG%3A%20%40HardVpn_robot
 vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@prairie.moltex.click:443?encryption=none&type=xhttp&security=tls&sni=alderpond.moltex.click&fp=firefox&alpn=h2%2Chttp/1.1&path=/api/de2/sync&host=prairie.moltex.click&mode=auto#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@woodgrain.filnex.baby:443?encryption=none&type=ws&security=tls&sni=larchbank.elvano.website&fp=firefox&alpn=http/1.1&path=/api/de2/stream#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://Fluffy_VPN-zKZUa4Ie@72.56.4.84:443?flow=xtls-rprx-vision&fp=firefox&pbk=Im1i3eUtm7uDxUOA0rNWef9bILxsBvK_ElfejZTpQW0&security=reality&sni=absolute-disaster.org&spx=%2F&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
