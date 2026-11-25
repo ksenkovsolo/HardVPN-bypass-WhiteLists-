@@ -1,7 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 12
+# Количество: 13
+vless://00000000-0000-0001-0000-000000000000@45.132.179.68:443?&security=tls&fp=firefox&sni=onbtoaadqkctlepomo.fcloudservices.site&type=tcp&headerType=none&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@72.56.38.83:443?encryption=none&flow=xtls-rprx-vision&pbk=ZzIetLcQtENjIXQ9XZqFo8p3J81p8Emj0wi51Uy07n8&security=reality&sni=absolute-disaster.org&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://7aa77858-f235-0001-9434-7ab060848b17@188.130.139.194:8443?flow=xtls-rprx-vision&security=tls&sni=beatyx.fun#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://7aa77858-f235-000a-9434-7ab060848b17@87.228.110.60:443?flow=xtls-rprx-vision&security=tls&sni=allah-ddos.whyfucked.sc#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
