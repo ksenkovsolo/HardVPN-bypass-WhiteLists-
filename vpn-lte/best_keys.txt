@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 34
+# Количество: 32
 ss://2022-blake3-chacha20-poly1305:8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=@8.209.106.54:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.209.117.187:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.59:443?sni=api.nextjobopportunityandclaimyouridealrole.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
@@ -28,11 +28,9 @@ vless://55b3fd10-3658-40a2-8951-ec90932d1d30@188.114.98.0:443?encryption=none&se
 vless://7aa77858-f235-000a-9434-7ab060848b17@87.228.110.60:443?flow=xtls-rprx-vision&security=tls&sni=allah-ddos.whyfucked.sc#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@sundial.filnex.baby:443?host=sundial.filnex.baby&path=%2Fapi%2Fde4%2Fstream&security=tls&sni=silverfen.elvano.website&type=ws&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@193.124.66.208:443?security=reality&encryption=none&pbk=7LBetmnWiUHWLTnW_sflaJvDfgSkTIe1BE6zw_dg1xY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=rufinmicro1.gangplatform.com&sid=899cbfb833ccbe51#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://bc591bd5-3fc9-9f3e-b194-939100000004@a2c.ir:443?security=tls&type=ws&host=flow-turbo-727.deloy10120.workers.dev&sni=flow-turbo-727.deloy10120.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?fp=random&host=xsru2.freeddns.org&path=%2Fwsru&security=tls&sni=xsru2.freeddns.org&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?fp=random&security=tls&serviceName=grpc-ru&sni=xssite.webredirect.org&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?headerType=none&host=xsru1.ddnsfree.com&path=%2Fwsru&security=tls&sni=xsru1.ddnsfree.com&type=ws&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?security=tls&type=ws&sni=xsru2.freeddns.org&path=%2Fwsru&host=xsru2.freeddns.org&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?headerType=none&host=xsru2.freeddns.org&path=%2Fwsru&security=tls&sni=xsru2.freeddns.org&type=ws&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?path=%2Fwsru&security=tls&sni=xsru2.freeddns.org&type=ws&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?mode=gun&security=tls&serviceName=grpc-ru&sni=xssite.webredirect.org&type=grpc&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
