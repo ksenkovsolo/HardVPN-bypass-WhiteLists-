@@ -1,7 +1,14 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 6
+# Количество: 13
+vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?security=tls&flow=xtls-rprx-vision&fp=chrome&alpn=h2,http/1.1&sni=171.22.183.166&type=tcp&headerType=none&path=/#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://052ad41f-7cf5-4027-b14d-c90f89e46103@154.36.152.216:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=dv37ircK63KvcVZwv3XJiUXvOsiP-dEsZQ3gXDdPmRs&sid=a3f7c2e1b9d4&spx=%2Fcdn-cgi%2Ftrace&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@193.124.56.100:443?&security=tls&fp=firefox&sni=parchment.merlano.monster&type=ws&headerType=none&host=parchment.merlano.monster&path=%2Fapi%2Fde7%2Fstream#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@193.168.140.175:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=inlay.merlano.monster&type=ws&headerType=none&host=inlay.merlano.monster&path=%2Fapi%2Fde3%2Fstream#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%7C%20TG%3A%20%40HardVpn_robot
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@31.57.28.169:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=inlay.merlano.monster&type=ws&headerType=none&host=inlay.merlano.monster&path=%2Fapi%2Fde3%2Fstream#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@31.57.28.199:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=inlay.merlano.monster&type=ws&headerType=none&host=inlay.merlano.monster&path=%2Fapi%2Fde3%2Fstream#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20TG%3A%20%40HardVpn_robot
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@birchbark.gerqix.online:443?path=%2F&security=tls&serviceName=glush.de7.v1&sni=birchbark.gerqix.online&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@164.37.224.51:443?encryption=none&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&security=reality&serviceName=5b79e8a94241&sid=50a749f0eccb628c&sni=15b171g.nl7.h1clayd.click&type=grpc&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@164.37.224.51:443?mode=gun&security=reality&encryption=none&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&fp=chrome&type=grpc&serviceName=5b79e8a94241&sni=15b171g.nl7.h1clayd.click&sid=50a749f0eccb628c#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.222:443?encryption=none&fp=firefox&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&security=reality&sid=361d0dd59c70516f&sni=5d0319t.nl7.h1clayd.click&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot

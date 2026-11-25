@@ -1,13 +1,15 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 36
+# Количество: 38
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.59:443?sni=api.nextjobopportunityandclaimyouridealrole.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.159:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=resources.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.159:443?sni=resources.healthcarejobshubenhancemedicalprofessionalskillstoday.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.49:443?sni=cdn.healthcarejobshubenhancemedicalprofessionalskillstoday.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-ca6908.shopingggg.ir:443?security=tls&headerType=none&type=tcp&sni=blog.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%7C%20TG%3A%20%40HardVpn_robot
+vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&alpn=channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn&security=reality&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&sid=0990d22f#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?security=reality&encryption=none&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0990d22f#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://01fada34-d8d8-4922-a199-6df19cd7391e@188.225.42.83:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_vuP0Wathd0PL_V39nLPB1lJWO9tLRnTcyphw1HK1kM&security=reality&sni=cdn-3f233a.wl5.streamvale.net&spx=%252F&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://04920673-035c-410d-94e4-5b1469d3fb6f@171.22.183.167:443?security=tls&encryption=none&insecure=0&host=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=171.22.183.167#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://04920673-035c-410d-94e4-5b1469d3fb6f@185.200.199.122:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://04920673-035c-410d-94e4-5b1469d3fb6f@185.200.199.122:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&alpn=h2%2Chttp/1.1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
