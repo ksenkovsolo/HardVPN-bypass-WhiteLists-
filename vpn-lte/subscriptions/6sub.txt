@@ -2,7 +2,6 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 100
-vless://Fluffy_VPN-Oth8rOq3@104.171.135.229:443?security=reality&encryption=none&pbk=mpo4BIcoWiMXAQGt5a8IJ4MFkPJQyLC50dO_bXzC7z0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://Fluffy_VPN-zKZUa4Ie@147.45.108.45:443?security=reality&type=tcp&sni=absolute-disaster.org&flow=xtls-rprx-vision&fp=chrome&pbk=IuzAWh6UM62Txrnh_No9y5n6wmZecyR1ki8z5xor-0g#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://Fluffy_VPN-zKZUa4Ie@201.51.11.65:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&security=reality&sni=absolute-disaster.org&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://Fluffy_VPN-zKZUa4Ie@72.56.4.84:443?encryption=none&security=reality&sni=absolute-disaster.org&flow=xtls-rprx-vision&fp=chrome&pbk=Im1i3eUtm7uDxUOA0rNWef9bILxsBvK_ElfejZTpQW0#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
@@ -29,6 +28,7 @@ vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?fp=random&host=xs
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?headerType=none&host=xsru1.ddnsfree.com&path=%2Fwsru&security=tls&sni=xsru1.ddnsfree.com&type=ws&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?headerType=none&host=xsru1.ddnsfree.com&path=%2Fwsru&security=tls&sni=xsru1.ddnsfree.com&type=ws&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?headerType=none&host=xsru1.ddnsfree.com&path=%2Fwsru&security=tls&sni=xsru1.ddnsfree.com&type=ws&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?host=xsru2.freeddns.org&insecure=0&path=wsru&security=tls&sni=xsru2.freeddns.org&type=ws&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?host=xsru2.freeddns.org&insecure=0&path=wsru&security=tls&sni=xsru2.freeddns.org&type=ws&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?security=tls&serviceName=grpc-ru&sni=xsru1.ddnsfree.com&type=grpc&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?type=grpc&security=tls&fp=firefox&sni=xsru1.ddnsfree.com&mode=gun&serviceName=grpc-ru#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot

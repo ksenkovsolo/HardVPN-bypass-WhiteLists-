@@ -1,13 +1,13 @@
 {
   "stage_seconds": {
     "fetch": 0.0,
-    "dedup": 84.43,
-    "whitelist": 200.73,
-    "test": 906.77,
-    "build_publish": 3.38
+    "dedup": 83.94,
+    "whitelist": 190.9,
+    "test": 1331.1,
+    "build_publish": 1.73
   },
-  "started_at": "2026-11-26 00:26:52",
-  "elapsed_seconds": 1195.3,
+  "started_at": "2026-11-26 00:47:00",
+  "elapsed_seconds": 1607.7,
   "sources_total": 95,
   "source_refresh_reused": true,
   "sources_ok": 0,
@@ -16,8 +16,8 @@
   "sources_unchanged": 0,
   "keys_raw_total": 0,
   "keys_from_unchanged_sources": 0,
-  "keys_rechecked": 256,
-  "keys_cached": 2418,
+  "keys_rechecked": 512,
+  "keys_cached": 2279,
   "keys_unique_valid": 401242,
   "keys_duplicates": 2134164,
   "keys_invalid": 117738,
@@ -25,19 +25,19 @@
   "keys_unsupported": 0,
   "keys_whitelist_allowed": 156328,
   "keys_whitelist_rejected": 244914,
-  "tested_best": 10,
+  "tested_best": 7,
   "tested_good": 5,
-  "tested_unchecked": 62,
-  "keys_pending": 153654,
-  "tested_slow": 767,
-  "tested_bad": 1830,
-  "publish_total": 782,
+  "tested_unchecked": 28,
+  "keys_pending": 153537,
+  "tested_slow": 771,
+  "tested_bad": 1980,
+  "publish_total": 783,
   "subscription_files": 8,
   "files": {
-    "WHITELIST-ALL.txt": 782,
+    "WHITELIST-ALL.txt": 783,
     "good_keys.txt": 5,
-    "best_keys.txt": 10,
-    "slow_keys.txt": 767,
+    "best_keys.txt": 7,
+    "slow_keys.txt": 771,
     "subscriptions/1sub.txt": 100,
     "subscriptions/5sub.txt": 100,
     "subscriptions/3sub.txt": 100,
@@ -45,6 +45,6 @@
     "subscriptions/7sub.txt": 100,
     "subscriptions/6sub.txt": 100,
     "subscriptions/2sub.txt": 100,
-    "subscriptions/8sub.txt": 82
+    "subscriptions/8sub.txt": 83
   }
 }
