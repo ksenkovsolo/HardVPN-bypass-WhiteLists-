@@ -1,4 +1,11 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 0
+# Количество: 7
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
+vless://04920673-035c-410d-94e4-5b1469d3fb6f@171.22.183.167:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://3af3f8f0-569f-4dd3-be99-2ef4bfe7867c@185.134.203.106:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&security=reality&sid=db04ce8bdb8900f1&sni=api.vk.me&type=tcp&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=mosaic.topp-con.xyz&type=tcp&headerType=none&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?flow=xtls-rprx-vision&insecure=0&security=tls&sni=mosaic.topp-con.xyz&type=tcp&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?path=%2Fwsru&security=tls&sni=xsru2.freeddns.org&type=ws&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@162.35.101.177:443?encryption=none&fp=firefox&pbk=cO3wYHISTeorXcM8ffaDCDdqZ-olBQL-GyZqb-W7rTk&security=reality&serviceName=99f2107b03f8&sid=bd8f712209a9c283&sni=0592efg.us8.h1clayd.click&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
