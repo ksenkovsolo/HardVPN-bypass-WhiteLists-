@@ -1,7 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 11
+# Количество: 12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOOEVtdkRxcHZTUE9DaTFlQmF5UGRHSmZmR2tQMGI5ZQ==@yalandema.pet0er23mh21qq.com:1080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443 #%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
 vless://6bd1d88f-0a26-4d21-b325-15d85120b883@sw-api.telemetryapi.org:443?encryption=none&security=tls&sni=sw-api.telemetryapi.org&fp=qq&type=ws&path=/api/v2/client/session/connect#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://6bd1d88f-0a26-4d21-b325-15d85120b883@sw-api.telemetryapi.org:443?type=ws&headerType=none&security=tls&encryption=none&sni=sw-api.telemetryapi.org&alpn=http%2F1.1&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot

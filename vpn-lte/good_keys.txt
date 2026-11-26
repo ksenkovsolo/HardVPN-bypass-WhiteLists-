@@ -1,10 +1,12 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 12
+# Количество: 14
 vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?security=reality&alpn=channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn%D0%A9%D2%96&encryption=none&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=www.cloudflare.com&sid=0990d22f#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://3f3ac22b-5823-4d4b-b2fc-70ffdd2f961d@render.com:443?mode=stream-one&security=tls&fp=firefox&type=xhttp&sni=nethrlnd-orng-bye-god-xn--fhq0la447aac5504dea701axr1g.maniyadg7shard.ir#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@188.114.98.0:443?path=%2Fproxyip%3Fed%23&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=freeceshi6.frii.site&type=ws&allowInsecure=0&sni=freeceshi6.frii.site#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://6b1607f1-3a08-4681-8abd-83663a8155e7@185.14.29.29:443?encryption=none&fp=firefox&host=static.gcore.pro&path=/js/libs&pbk=bPxKgZHO13GJGKjbHz0BVnsw8UIcOjz2yz8VCgGv5BI&security=reality&sid=6fce2d08&sni=static.gcore.pro&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
+vless://7ff1e7e1-2b5a-4e53-ae77-1516f9eb7754@51.194.118.38:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=50a5f706c8ea4433838a207d435fbf031b008a9a&allowInsecure=0&sni=a1259.ve8nzuk.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://8f092ef0-a7e6-03e9-b989-836aebc00ff7@161.104.89.173:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ya.ru&pbk=DulhUFMYzxIsucjtPONJQMszzyi9V6bqQ9WI3GjGFAY&sid=abc123&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://8f092ef0-a7e6-03e9-b989-836aebc00ff7@rua.strauspro.com:8443?encryption=none&flow=xtls-rprx-vision&pbk=DulhUFMYzxIsucjtPONJQMszzyi9V6bqQ9WI3GjGFAY&security=reality&sid=abc123&sni=ya.ru&type=tcp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://a688bbe2-e455-11f1-a2d1-0f56c102b673@gr1.vpnjantit.com:8443?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=992f9f92ddfa5056&pbk=GbzSIW3yd11r22Twahtyz4CMDxUj_QQe5RKvZukxDUw&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
