@@ -1,5 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 1
+# Количество: 3
+vless://70756c73-0000-4000-8000-650000000000@199.181.197.99:443?encryption=none&security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&fp=firefox&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://cd78f948-69a7-43e6-b1b3-fa09eba50d5d@83.243.86.189:443?type=tcp&security=reality&fp=chrome&pbk=jfPQXsfvAIZNCDFvW_W3n3Akt6HJv1GD6XaWSApmPGk&sid=3d6eb45b18abfd6a&sni=www.tradingview.com&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TG%3A%20%40HardVpn_robot
+vless://db0eb9c9-5bb5-4a59-ba56-a33bc8e0de5d@109.61.109.28:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PYz9lZZb4mGkYpokD8TyPR1iXzBThEwI-S5RHXfjG1w&security=reality&sid=e9f4872efa1c4415&sni=jp.cloude.one&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TG%3A%20%40HardVpn_robot
