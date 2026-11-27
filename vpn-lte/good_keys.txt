@@ -1,9 +1,10 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 8
+# Количество: 9
 vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?alpn=channel&flow=xtls-rprx-vision&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&security=reality&sid=0990d22f&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?security=reality&alpn=channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn%C3%B0%C2%A9%C3%B2%C2%96&encryption=none&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0990d22f#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
+vless://1ab92b9c-9a46-4a06-9a12-1c118fd138f6@188.166.182.158:443?encryption=none&flow=xtls-rprx-vision&pbk=8aRRz5a2rhOHIRjE3o3qckxmQNWh-IVGTv16Snyze2M&security=reality&sid=c44f5e04e67b2c74&sni=www.bing.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20TG%3A%20%40HardVpn_robot
 vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@314fbcg.ee5.h1clayd.shop:443?type=grpc&headerType=none&security=reality&encryption=none&sni=314fbcg.ee5.h1clayd.shop&fp=firefox&pbk=wQ0i9JDLOmAnh1Xfo-n_QqSu1hyuqHtTcy--DGgqtzA&sid=55c396924697994f&spx=%2F&serviceName=9e16c22000f6&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=mosaic.topp-con.xyz&type=tcp&headerType=none&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vmess://eyJ2IjoiMiIsInBzIjoi8J-HuvCfh7ggVW5pdGVkIFN0YXRlcyB8IFRHOiBASGFyZFZwbl9yb2JvdCIsImFkZCI6IjE4OC4xMTQuOTkuMTM3IiwicG9ydCI6IjQ0MyIsImlkIjoiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiZ3VhbndhbmcuYXdzbm8uY29tIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsInRscyI6InRscyIsInNuaSI6Imd1YW53YW5nLmF3c25vLmNvbSIsInRlc3RfbmFtZSI6IlVTOCJ9
