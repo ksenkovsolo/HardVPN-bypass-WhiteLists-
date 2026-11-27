@@ -1,12 +1,10 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 22
+# Количество: 20
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20TG%3A%20%40HardVpn_robot
 ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@91.206.92.158:18443?udp=1#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@147.45.108.45:443?encryption=none&flow=xtls-rprx-vision&pbk=IuzAWh6UM62Txrnh_No9y5n6wmZecyR1ki8z5xor-0g&security=reality&sni=absolute-disaster.org&type=tcp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?encryption=none&flow=xtls-rprx-vision&headerType=none&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&security=reality&sni=absolute-disaster.org&type=tcp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?encryption=none&flow=xtls-rprx-vision&headerType=none&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&security=reality&sni=absolute-disaster.org&type=tcp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@185.200.244.37:443?encryption=none&fp=&host=185.200.244.37&mode=auto&path=/api/v2/7d94497a&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&security=reality&sid=0bf13fb706784403&sni=es1.green-tg.com&type=xhttp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20TG%3A%20%40HardVpn_robot
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?fp=random&path=%2Fwsru&security=tls&sni=xsru2.freeddns.org&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://ce18d0eb-5c71-41f9-96e5-1632e22456e4@195.123.240.65:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=StPbcmBuzpuYUfa4oZ5SI3Bq1OSF_-oU1vp2AcyvQVE&sid=19296c9f1bf9c7b1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
