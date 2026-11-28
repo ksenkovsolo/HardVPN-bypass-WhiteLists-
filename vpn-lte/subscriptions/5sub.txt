@@ -1,7 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 22
+# Количество: 23
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@185.178.208.140:443?encryption=none&fp=edge&host=locationfree.icu&path=%2Fuseraction%2Fcollect%2F33de51ecdc75%2F&security=tls&sni=help.cs-on.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@185.178.208.140:443?encryption=none&fp=ios&host=locationfree.icu&path=%2Fuseraction%2Fcollect%2F33de51ecdc75%2F&security=tls&sni=help.cs-on.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@185.178.208.140:443?security=tls&sni=help.cs-on.ru&alpn=http%2F1.1&type=ws&host=locationfree.icu&path=%2Fuseraction%2Fcollect%2F33de51ecdc75%2F&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@185.178.208.140:443?security=tls&sni=help.cs-on.ru&alpn=http%2F1.1&type=ws&host=locationfree.icu&path=%2Fuseraction%2Fcollect%2F33de51ecdc75%2F&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
