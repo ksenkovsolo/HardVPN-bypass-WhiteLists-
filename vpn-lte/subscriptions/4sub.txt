@@ -2,6 +2,7 @@
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
 # Количество: 100
+vless://749b1c56-e658-4bf5-94bd-5c3286a4aed1@sienna.merlano.monster:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=sienna.merlano.monster&type=ws&headerType=none&host=sienna.merlano.monster&path=%2Fapi%2Fde4%2Fstream#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://749b1c56-e658-4bf5-94bd-5c3286a4aed1@sienna.merlano.monster:443?encryption=none&type=ws&security=tls&sni=sienna.merlano.monster&fp=firefox&alpn=http/1.1&path=/api/de4/stream#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://749b1c56-e658-4bf5-94bd-5c3286a4aed1@sienna.merlano.monster:443?host=sienna.merlano.monster&path=%2Fapi%2Fde4%2Fstream&security=tls&sni=sienna.merlano.monster&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://749b1c56-e658-4bf5-94bd-5c3286a4aed1@stonecrop.merlano.monster:443?encryption=none&type=xhttp&security=tls&sni=paperbirch.merlano.monster&fp=firefox&alpn=h2&path=/api/de5/preview/&host=paperbirch.merlano.monster&mode=packet-up#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
@@ -101,4 +102,3 @@ vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@179.254.115.111:443?security=realit
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@193.148.253.75:443?fp=firefox&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&security=reality&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl13.h1clayd.click&encryption=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.110:443?encryption=none&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&type=grpc&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.139:443?encryption=none&fp=&mode=auto&path=%2F0616f2d729aa&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&security=reality&sid=7b2b1a14a6e0630d&sni=fc82dfx.nl8.h1clayd.click&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.139:443?encryption=none&fp=firefox&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
