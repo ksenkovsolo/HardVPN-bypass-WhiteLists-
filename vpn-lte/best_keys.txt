@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 39
+# Количество: 38
 ss://2022-blake3-chacha20-poly1305:8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=@8.209.106.54:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.209.115.219:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.209.117.187:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
@@ -34,7 +34,6 @@ vless://d1ec39e3-ad7b-4b65-9f65-813696f9a04e@alsu.deev-guard.ir:1289?encryption=
 vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@156.229.167.109:8443?security=reality&sni=github.githubassets.com&fp=chrome&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA&sid=4ad2e4e660550e43#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@109.172.87.68:443?type=xhttp&security=tls&sni=rusamicro67.richhoodfoc.com&path=%2Fapi%2Fv2%2Ftelemetry%2Fc3a474d77a&host=rusamicro67.richhoodfoc.com&mode=auto&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@144.31.203.145:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nemicro543.aidating.am&fp=firefox&pbk=MAcch2LXcj3xo0ZZQIBvxS4GptpZ9ipzFNNn2BUa6mg&sid=a54ec85c94547b17&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@185.178.208.140:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=locationfree.icu&path=%2Fuseraction%2Fcollect%2F33de51ecdc75%2F&security=tls&sni=help.cs-on.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@185.178.208.140:443?alpn=http%2F1.1&encryption=none&fp=ios&host=locationfree.icu&path=%2Fuseraction%2Fcollect%2F33de51ecdc75%2F&security=tls&sni=help.cs-on.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@185.178.208.140:443?security=tls&sni=help.cs-on.ru&alpn=http%2F1.1&type=ws&host=locationfree.icu&path=%2Fuseraction%2Fcollect%2F33de51ecdc75%2F&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@185.178.208.140:443?security=tls&sni=help.cs-on.ru&alpn=http%2F1.1&type=ws&host=locationfree.icu&path=%2Fuseraction%2Fcollect%2F33de51ecdc75%2F&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
