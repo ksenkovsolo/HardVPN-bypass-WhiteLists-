@@ -1,11 +1,10 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 12
+# Количество: 11
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@92.63.193.41:443?flow=xtls-rprx-vision&security=reality&sni=ruswedmicro2.gangplatform.com&pbk=Hk7E17R41exzrPKAOeETobKQ0LOAmuLSzFXdEwLSmiQ&sid=b92d7008f05da71e&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@92.63.193.41:443?flow=xtls-rprx-vision&security=reality&sni=ruswedmicro2.gangplatform.com&pbk=Hk7E17R41exzrPKAOeETobKQ0LOAmuLSzFXdEwLSmiQ&sid=b92d7008f05da71e&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@92.63.193.41:443?flow=xtls-rprx-vision&security=reality&sni=ruswedmicro2.gangplatform.com&pbk=Hk7E17R41exzrPKAOeETobKQ0LOAmuLSzFXdEwLSmiQ&sid=b92d7008f05da71e&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@pyskyzoc.edgecdn.pro:443/?type=ws&encryption=none&flow=&host=locationfree.icu&path=%2Fuseraction%2Fcollect%2F33de51ecdc75%2F&security=tls&sni=help.cs-on.ru&alpn=http%2F1.1&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@pyskyzoc.edgecdn.pro:443/?type=ws&encryption=none&flow=&host=locationfree.icu&path=%2Fuseraction%2Fcollect%2F33de51ecdc75%2F&security=tls&sni=help.cs-on.ru&alpn=http%2F1.1&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@pyskyzoc.edgecdn.pro:443/?type=ws&encryption=none&flow=&host=locationfree.icu&path=%2Fuseraction%2Fcollect%2F33de51ecdc75%2F&security=tls&sni=help.cs-on.ru&alpn=http%2F1.1&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r2.pythonmakemigreat.wiki:8443?encryption=none&type=xhttp&security=reality&sni=assets.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&fp=firefox&spx=/&path=/&host=fl-b2.golangwikito.cfd&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
