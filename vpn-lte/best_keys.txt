@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ BY @HARDVPN_ROBOT
 # profile-update-interval: 2
 #announce: Более хорошие подписки в TG: @hardvpn_robot
-# Количество: 18
+# Количество: 19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUeVdJeTZwYWlGVVg@38.99.82.34:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 trojan://DhRGKU0ex3QxEyLa5JUZcpvtQJvE6A_V@de10.mous-speed.site:443?security=tls&alpn=h2&insecure=0&headerType=&fp=randomized&type=tcp&allowInsecure=0&sni=de10.mous-speed.site#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 vless://0063ec24-154c-4b84-8326-2ee3bf653005@dubai-forum-pppprxv-reverse.keno.su:443?security=reality&encryption=none&pbk=KlSS2My4YpJVC6wKUExl9Hj_BqDGEAOGNDWczwmE8FI&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dubai-forum-pppprxv-reverse.keno.su&sid=8f84bccd973b3396#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20TG%3A%20%40HardVpn_robot
@@ -16,6 +16,7 @@ vless://749b1c56-e658-4bf5-94bd-5c3286a4aed1@sienna.merlano.monster:443?&securit
 vless://749b1c56-e658-4bf5-94bd-5c3286a4aed1@waterlily.moltex.click:443?encryption=none&type=xhttp&security=tls&sni=paperbirch.merlano.monster&fp=firefox&alpn=h2&path=%2Fapi%2Fde4%2Fpreview%2F&host=paperbirch.merlano.monster&mode=packet-up#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@156.229.167.109:8443?security=reality&sni=github.githubassets.com&fp=chrome&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA&sid=4ad2e4e660550e43#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TG%3A%20%40HardVpn_robot
 vless://ebdfaf99-41d8-4e48-8196-d54510ffb556@45.129.242.56:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YURKlEQ3rap4KOXXGsVFZyYev2oDU2gCEbNTXPdKWRY&security=reality&sid=abcdef&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@185.178.208.140:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=locationfree.icu&path=%2Fuseraction%2Fcollect%2F33de51ecdc75%2F&security=tls&sni=help.cs-on.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@185.178.208.140:443?alpn=http%2F1.1&encryption=none&fp=ios&host=locationfree.icu&path=%2Fuseraction%2Fcollect%2F33de51ecdc75%2F&security=tls&sni=help.cs-on.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@185.178.208.140:443?type=ws&headerType=none&security=tls&encryption=none&sni=help.cs-on.ru&path=%2Fuseraction%2Fcollect%2F33de51ecdc75%2F&host=locationfree.icu&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@pyskyzoc.edgecdn.pro:443/?type=ws&encryption=none&flow=&host=locationfree.icu&path=%2Fuseraction%2Fcollect%2F33de51ecdc75%2F&security=tls&sni=help.cs-on.ru&alpn=http%2F1.1&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
